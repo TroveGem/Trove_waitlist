@@ -1,59 +1,57 @@
 # Board summary: Trove
 
-**Round 2 (after the working demo): 2 fund if, 1 pass. Average score 3.3 / 10.**
-Offers 4, FUND IF (no change) · Monopoly 2, PASS (down from 3) · Product 4, FUND IF (no change).
-Round 1 was based only on the waitlist page and averaged 3.7.
+**Round 3 (final, full product reviewed): 2 fund if, 1 pass. Average score 4.3 / 10.**
 
-Inputs: the waitlist page and the demo at https://trove-1un.pages.dev. www.welovetrove.co.za could not be reached and has not been reviewed.
+| Lens | R1 (waitlist page) | R2 (+ demo) | R3 (+ website, Engine, live guest app) |
+|---|---|---|---|
+| Offers | 4 FUND IF | 4 FUND IF | **5 FUND IF** |
+| Monopoly | 3 PASS | 2 PASS | **3 PASS** |
+| Product | 4 FUND IF | 4 FUND IF | **5 FUND IF** |
 
-## Addendum: the website (reviewed after round 2, board not reconvened)
+Reviewed: the waitlist page in this repo, the prototype (trove-1un.pages.dev), www.welovetrove.co.za, TROVE Engine (trove-engine.pages.dev, public pages and app code) and the production guest app (trove-your-next-adventure.pages.dev). The Engine was not tested while signed in.
 
-www.welovetrove.co.za answers three open questions and raises one:
-- **Launch status is resolved:** the countdown is to **1 Nov 2026** in **Johannesburg and Pretoria**. Two neighbouring cities is the first sign of the narrowing the board asked for, though it is still every category.
-- **The venue side may exist.** The site promises "one dashboard: listings, tickets, guest lists and payouts", and its code links to `trove-engine.pages.dev`, which looks like the host app. This session couldn't reach it. **If it works, the board's #2 risk (no venue product) mostly goes away, and the vote should be re-run.**
-- **Pricing for venues is now unstated** ("founding partner rates"). The 3% / 8% tiers appear only on the old waitlist page. *(/founder-cfo)*
-- **New scope:** "Stays" (accommodation) and promoter and artist partner types widen the offer again, against the board's advice.
+## What round 3 settled
 
-Updated checklist items: ~~explain the missed Q2 launch~~ (now 1 Nov, JHB + PTA); **review the host engine before reconvening the board.**
-
-## What the demo changed
-
-**Better:**
-- **A "booking" is now defined.** Every listing is a dated, priced ticket (R60 to R6,800), so the commission can be calculated. This answers the main round-1 risk for paid events. Free listings still earn nothing.
-- **Craft is visible.** The seeker flow is polished and mobile-first: discover → spot page → 3-step checkout → QR ticket by email and WhatsApp. "Decide. Book. Show up." is the one-sentence pitch the board asked for.
-- **It can be used to sell.** A real app makes "we'll send you customers" more believable to a venue than a waitlist page does.
-
-**Worse:**
-- **The scope grew instead of narrowing.** The waitlist page had 6 venue types in 3 cities. The demo has 9 categories in 10 cities, about 90 city-and-category cells (Monopoly).
-- **The paying side gets nothing.** There is no venue dashboard, listing creation, capacity control, door scanning or payouts. The polish all sits on the free side of the marketplace, which also does not create the network effect.
-- **Real businesses next to invented social proof.** Real SA brands (Marble, The Saxon, Zeitz MOCAA, Ultra SA, Rocking the Daisies, SANParks and others) appear with no stated partnership, some with real-looking contact details. They sit beside hard-coded ratings, "Almost Full" badges, live-capacity bars and "3 from your community going". All three members flagged this as something to fix before anyone outside the team sees it.
+- **The venue side exists** and covers most of what the board asked for: a listing builder for ticket tiers, session slots and rooms; a QR door scanner on any phone; an audience CRM; team roles; analytics; per-event refund policies; and **TradeSafe escrow with ZAR payouts after the event**. All three members raised their view on this.
+- **The production guest app shows no fake data.** Real sign-in and real bookings, and the made-up listings and social proof from the prototype are not shown.
+- **The launch date is set:** 1 Nov 2026, Johannesburg and Pretoria.
+- **The revenue model is defined:** free for hosts; guests pay an **R8 booking fee** (non-refundable if they cancel) plus an optional **R5 for WhatsApp ticket delivery**. The 3% / 8% host tiers survive only on the old waitlist page.
 
 ## Risks raised by more than one member (most dangerous first)
 
-1. **Too wide to win anywhere** (all three, now worse).
-2. **No venue-side product**, although the venue is the customer who pays (all three). Product's view: "The polish sits where the founder is comfortable, not where the business breaks."
-3. **No proof of demand or supply** (all three). No real venue, transaction, payment integration, WhatsApp integration or traction numbers. The Q2 2026 launch date has passed with no status given.
-4. **Unconsented real brands and fabricated scarcity or social proof** (all three, new). This risks reputation and could cause legal problems, and it undercuts "Verified & Trusted".
-5. **No moat** (Offers, Monopoly). Seeker features and a good front end can be copied, and venues can list everywhere.
+1. **Empty shelf on launch day** (all three). The live feed has **0 spots, 11 days before launch**, and no numbers are shared for signed hosts or ready listings. Product: "A beautiful app with 0 spots is the worst first five minutes possible."
+2. **Still too wide** (all three). Four host types (events, experiences, stays, venues), plus promoters and artists, and 11 city filters, for a two-city launch. "Stays" is new and doesn't fit "Decide. Book. Show up."
+3. **The R8 flat fee** (all three, from different angles):
+   - *Offers:* gross R8 needs about 1,250 paid bookings a month for R10k and about 12,500 for R100k. A 3% take beats R8 only on tickets above about R267. So R8 suits cheap, frequent nights but gives away value on high-priced items (0.12% of a R6,800 retreat). If TradeSafe's fee comes out of the R8, the margin per booking could be close to zero.
+   - *Monopoly:* free hosting plus a flat fee creates no lock-in, and a rival can undercut it overnight.
+   - *Product:* R8 + R5 on a R60 ticket is a 22% add-on, and it contradicts the "no booking fees" promise.
+4. **The fee story contradicts itself** (Product, Offers). "Is it free for seekers? Yes, 100% free. No booking fees." (waitlist page) vs. R8 in production. A WhatsApp-native brand charging R5 for WhatsApp delivery. The host "Pricing" link returns 404.
+5. **No distribution numbers and no moat yet** (Monopoly, Offers). The CRM is the only candidate for switching costs, and that is unproven.
 
 ### Where the board disagrees
-- **Monopoly PASS vs. Offers and Product FUND IF.** Monopoly reads the demo as evidence that effort is going into the wrong half of the marketplace, and cut its score. Offers and Product think that, with focus, the same craft pointed at the venue side could work.
-- **What the demo is for.** Offers sees it as a sales tool to sign venues. Product sees it as half a product that hides the seams most likely to break. Monopoly sees a storefront with no stock.
+- **Monopoly still says PASS** (up 2→3 because the supply-side tooling exists). Its view: a built product is not a dominated market, and free plus R8 is the cheapest price, not a wedge. It wants proof of a concentrated cell, of hosts still using the CRM after 30 days, and of seekers booking again.
+- **Offers and Product say FUND IF** (both 4→5). The hard engineering is done; what's left is a launch-focus problem plus fee economics that can be fixed.
+- **On the R8 fee:** Offers wants a fee that scales with ticket price above a threshold. Product mainly wants it shown honestly, and asks whether WhatsApp delivery should be free. Monopoly questions whether any guest fee survives a competitor that charges none.
 
 ## Conditions (checklist for the rest of the pack)
 
-- [ ] **Pick one ticketed category in one city.** Choose it by the commission each ticket earns, not by how good the listings look. Board examples: comedy, activity operators or underground nightlife in a Johannesburg area. Hide every other category and city, plus social, split bills and rewards. *(/founder-competitors, /founder-consumer, /founder-cfo)*
-- [ ] **Build the minimum venue side before any more seeker features:** create an event, set capacity, scan at the door, pay out. *(all three)*
-- [ ] **Remove or label real businesses**, and remove fabricated ratings, capacity, scarcity and "friends going" before any external demo. *(all three; do this first)*
-- [ ] **Model the economics of one booking** in the chosen category: ticket price × 3% / 8%, payment costs, whether the free service fee and R50 referral reward fit. *(/founder-cfo)*
-- [ ] **Show seeker demand for that specific category**, and that it beats Instagram plus a WhatsApp message to the venue. *(/founder-consumer)*
-- [ ] **Find out what those venues use today for ticketing and reservations, and what they pay.** *(/founder-competitors)*
-- [ ] **Run real pilots end to end** with signed venues. Track sales, no-show rates and the failure rate at each handoff. These replace the unsourced 60% no-show claim. *(/founder-launch)*
-- [ ] **Offer a venue guarantee**, for example no commission until N new bookings, priced so it is affordable. *(/founder-offer, /founder-cfo)*
-- [ ] **Sign a dominant share of venues in that one area**, and name a defence against copycats: exclusive inventory, a venue workflow that is costly to leave, or demand data. *(Monopoly's condition for reopening its vote)*
-- [ ] **Write a distribution plan** for the first 100 venues and 1,000 seekers, with the cost of each. *(/founder-marketing)*
-- [ ] **Give the real launch status and waitlist numbers on both sides.**
+**Before 1 Nov (10 days):**
+- [ ] **Have a screenful of real, bookable spots live before opening to guests**, concentrated in one category in one city (all three; Offers suggests 20–30 as a placeholder for /founder-cfo to set). If it isn't there, delay the guest launch rather than open an empty app.
+- [ ] **Hide what has no stock:** empty city filters, unused categories and "Stays" until real supply exists (Product, Monopoly).
+- [ ] **Make the fee story consistent:** show R8 upfront, retire "no booking fees" / "Service fee: Free" copy (including this repo's waitlist page), fix the 404 Pricing link, and decide on free WhatsApp delivery (Product, Offers).
+- [ ] **Remove the old demo listing module** (real brand names, generated follower counts) from the production bundle (Offers, Product).
+
+**Numbers to establish:**
+- [ ] **Unit economics per booking:** R8 (+R5) minus TradeSafe fees, WhatsApp message cost and refunds; bookings a month to cover running costs; whether a fee scaled to ticket price above a threshold makes sense. *(/founder-cfo)*
+- [ ] **Guest acceptance of R8 (+R5)** on cheap tickets vs. buying directly or elsewhere. *(/founder-consumer)*
+- [ ] **What hosts use and pay today** for ticketing, reservations and door management in JHB/PTA, and whether "free to list" is a real difference. *(/founder-competitors)*
+
+**First 30 days:**
+- [ ] **20+ real bookings end to end** (book → scan at door → payout → one refund), with the failure rate at each handoff (Product, Offers).
+- [ ] **Publish real proof:** bookings, check-in rates, no-shows. These replace the unsourced "60% fewer no-shows" claim (Offers).
+- [ ] **Show a share of supply** in the launch area, **CRM use by hosts after 30 days**, and **seekers booking again** (Monopoly's conditions for reopening its vote).
+- [ ] **A founding-host guarantee** with real urgency, e.g. "we fill N seats or promote you free". *(/founder-offer)*
 
 ## The strongest version the board can see
 
-This is narrower than both the waitlist page and the demo. Keep the seeker flow you've built. It's good, and it's the right shape: a dated, priced ticket, a 30-second checkout and a QR code on WhatsApp. Point it at **one ticketed category in one city**, and spend the next build on the **venue side** for that category: create the event, set capacity, scan at the door, get paid weekly. Sign a handful of real venues, run real sales through it and publish the numbers. Once Trove is the obvious place to book that one thing in that one area, and those venues run their door through it, it has a network effect to expand from. The other 8 categories and 9 cities in the demo come afterwards.
+Trove has done the hard part. It has built both sides of the marketplace, with escrowed payments and a door scanner, ahead of launch. The risk now is the launch itself. The strongest version opens on 1 Nov in **one category in Johannesburg**, with a full screen of real, bookable listings from hosts who are actively using the Engine. Every other host type, city and "Stays" stays hidden until it has stock. Its pricing is the same everywhere and the guest sees it upfront, and the R8 has been checked against TradeSafe's fees. Measure the first 30 days (bookings, check-ins, payouts, repeat guests, hosts returning to the CRM) and publish them. That turns Offers' "likelihood" problem into evidence and gives Monopoly the concentrated market it is waiting for. Opening an empty app across four host types would waste a well-built product.

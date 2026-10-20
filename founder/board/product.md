@@ -1,32 +1,33 @@
 # Product lens
-Score: 4 | Vote: FUND IF
+Score: 5 | Vote: FUND IF
 
-## What changed since round 1
-The score stayed at 4. The demo moved things in both directions and they roughly cancel out.
-- **Up:** taste and craft can now be seen. The seeker app is polished, mobile-first and coherent. The tagline "Decide. Book. Show up." is a one-sentence pitch, which round 1 asked for. The demo also partly answers my round-1 risk #2. A "booking" is now a dated, priced ticket (R60 to R6,800), so the core moment has something real to sell.
-- **Down:** focus got worse. The waitlist page listed 6 venue types in 3 cities. The demo shows 9 categories in 10 cities, from karaoke to R6,800 wellness retreats. And it is only half a product: there is no venue side at all. Nothing exists for listings, availability, door check or payouts, which are the seams I named as the danger. The polish sits where the founder is comfortable, not where the business breaks.
+## What changed since round 2
+The score goes from 4 to 5. The vote stays FUND IF.
+- **Up:** my round-2 risk #1 is mostly answered. TROVE Engine exists, with listings, capacity, slots, a door scanner, a CRM, payouts, TradeSafe escrow and refund policies set per event. That is the venue handoff I said was missing. Risk #3 is mostly answered too: the live production feed shows no fabricated listings or social proof.
+- **Not up further:** none of the Engine was tested while signed in. There are **0 live spots 11 days before launch**, so the core moment (open the app, find something tonight, book it) cannot happen for anyone yet. Focus is still wrong. Launch is down to 2 cities, but the product now covers events, experiences, **stays**, venues and community, with 11 city filters.
 
 ## What is strong
-- The seeker flow is well made: discover, spot page, 3-step checkout, QR ticket to email and WhatsApp. Someone who cares about craft built the screens.
-- The ticket-shaped booking gives a percentage commission something real to apply to, and gives the seeker something to show at the door.
-- The pitch now fits in one sentence. The product just doesn't match it yet.
+- Both sides of the marketplace are now built, not just the guest side. The door scanner and "payout after the guest has been" close the seams that kill marketplaces.
+- Escrow plus refund policies chosen by the host per event mean the money path has been designed, not left for later.
+- Production is honest. Real auth, real bookings and ticket codes, and no fake listings in the feed.
+- Craft holds up across both apps.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **The venue side is missing, and it is where the experience breaks.** "Live capacity 178/200" is hard-coded. In a real product that number has to come from a venue that keeps it up to date. If availability is not managed, there will be double-bookings and guests turned away at the door. A marketplace is judged at the handoff to the venue, and that handoff has not been designed.
-2. **Scope is moving the wrong way.** The Q2 2026 launch date has passed. The response so far has been more categories and more cities, not fewer. Festivals, fine dining, skydiving and museum lates have different buyers, ticket sizes and door processes. Doing all of them averagely loses to a specialist in each.
-3. **The demo tells a story it can't back up.** It shows real named businesses with contact details, but nothing says whether they are partners. Ratings, "3 from your community going" and "Almost Full" badges are invented. If a seeker or venue takes any of this as real, trust is broken before the first booking. This is the hidden corner the lens warns about: corners cut where nobody looks get cut where they do.
+1. **An empty shelf at launch.** A beautiful app with 0 spots is the worst first five minutes possible. A guest who opens it on 1 Nov and sees nothing, or three things spread across stays, comedy and hikes, does not come back. Every host type and city filter shown with no stock makes the emptiness more obvious.
+2. **Too many products for the launch.** Ticketed events, timed sessions, room nights and venue bookings each need a different listing model, door process and refund logic. Building all four on day one means none gets brilliant. "Stays" arrived late and has nothing to do with "Decide. Book. Show up."
+3. **The fee seams break the promise.** The guest was promised "no booking fees", and the older checkout said "Service fee: Free". Production now charges R8, kept if the guest cancels. On top of that, a brand sold as WhatsApp-native charges **R5 to deliver the ticket on WhatsApp**. The host Pricing link returns 404. Each of these is a moment where the experience contradicts the pitch.
 
 ## The questions I would ask the founder
-- Which one category in which one city will be live first? What did you cut to get there?
-- Walk me through a venue manager's first five minutes: creating an event, setting capacity, scanning a ticket at the door, seeing a payout. Show me the screens.
-- Are any of the named businesses in the demo partners? If not, when will they be removed or labelled?
-- Where does live availability come from, and what happens when the app says yes and the door says no?
-- Which payment provider and which WhatsApp integration will you use, and who owns the failures at each?
-- What is one booking worth after commission at your target category's price? (Unknown; /founder-cfo.)
-- Do seekers want this category from you rather than from where they buy tickets now? (Unknown; /founder-consumer for demand, /founder-competitors for who already sells these tickets.)
+- How many spots will be live at 00:00 on 1 Nov, in which category, in which city? Who signed them?
+- Which host type would you hide if you could only launch one? Why is "stays" in v1?
+- Walk me through a real event end to end on the Engine: create it, sell a ticket, scan it at the door, receive the payout. What failed?
+- Why charge for WhatsApp delivery when WhatsApp is the brand promise? What does a WhatsApp message actually cost you? (/founder-cfo)
+- Does R8 cover TradeSafe's fees, and who pays them? (/founder-cfo)
+- Will guests pay R8 here when they already buy tickets elsewhere? (/founder-consumer, /founder-competitors)
 
 ## If FUND IF: the conditions
-1. Cut to one ticketed category in one city, for example comedy or activity operators in Joburg. Hide everything else, including social features, split bills and rewards.
-2. Build the minimum venue side for that category: create the event, set capacity, scan at the door, pay out. Run real bookings end to end with signed venues, and report the failure rate at each handoff.
-3. Remove real business names, or label them as partners, and remove fabricated social proof before anyone outside the team sees the demo.
-4. Model the economics of a booking in that category (/founder-cfo) and show demand for it (/founder-consumer) before adding a second category.
+1. Launch one host type (events or experiences) in Johannesburg only. Hide stays, unused categories and empty city filters until real stock is behind them.
+2. Have at least a screenful of real, bookable spots live before opening the doors to guests. Delay the guest launch rather than open an empty app.
+3. Run 20+ real bookings end to end (book, scan at the door, payout, a refund) and report the failure rate at each handoff.
+4. Make the fee story consistent everywhere: show R8 upfront, retire the "no booking fees" copy, fix the 404 Pricing page, and decide whether WhatsApp delivery should be free.
+5. Strip the old demo listing module from the production bundle.

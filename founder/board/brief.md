@@ -76,3 +76,31 @@ Observed directly. Three pages: home (`/`), hosts (`/partners`), guest sign-up (
 - **Socials:** Instagram, TikTok, LinkedIn and WhatsApp, all under @welovetrove. Forms are backed by Supabase.
 - **Other apps linked from the site's code (not reviewed, because they were unreachable from this session):** `trove-engine.pages.dev`, with a sign-up link, which appears to be the host/venue-side "engine"; and `trove-your-next-adventure.pages.dev`, a seeker app. Whether a venue-side product exists is therefore **unconfirmed**, not absent.
 - No traction numbers, partner names or team information on the site.
+
+## Update 2026-10-20 (later): the production apps
+
+Observed directly. These change several earlier "unknowns". **Where they conflict with the demo section above, this section is current.** The demo at trove-1un.pages.dev is an older prototype.
+
+### TROVE Engine, the host/venue platform (https://trove-engine.pages.dev)
+- **Exists and is built out.** Marketing page: "Where South Africa's Spots grow. List events, experiences, stays or your venue on TROVE. Guests discover you, book and pay in Rands." Calls to action: "Start hosting free" (sign-up) and "Talk to partnerships" (enquiry form for festivals, multi-venue programmes and brand partnerships, with dedicated plans).
+- **Four host types:** event organisers (ticket tiers, live entry control), experience providers (sessions, capacity), accommodation hosts (rooms, stays), venue operators.
+- **Signed-in app routes found in its code:** dashboard, listings (create and edit, with ticket tiers, session slots, rooms), calendar, slots, bookings, **door scanner** (QR, any phone, live check-in counts), audience CRM (followers, past guests, regulars, per-guest page), team and roles (staff invites), live analytics, reviews, **payouts**, notifications, support tickets, onboarding with verification status, settings. Not tested while signed in.
+- **Payments:** "Card payments are held in escrow by **TradeSafe**. Payouts land in your South African bank account once your guests have been, and refunds are handled for you." Headline figures: "R0 to list your Spot", "ZAR every payout", "TradeSafe escrow-secured payments".
+- **Refund policies chosen by the host per event:** TROVE standard (90% back 72h+ before, 50% at 24–72h, nothing under 24h), 7 days' notice, 30 days' notice, or no refunds. If the host cancels, every guest gets a full refund.
+- **WhatsApp:** booking notifications to guests on WhatsApp.
+- The footer "Pricing" link goes to welovetrove.co.za/pricing, which returns **404**. No page states a commission or fee for hosts.
+
+### Revenue model, from the production code
+- **Guests pay a TROVE booking fee of R8 per booking.** It is non-refundable when a guest cancels and refunded if the host cancels. The amount is served from the backend, and the host-facing copy states "R8".
+- **An optional R5 "WhatsApp delivery" charge** applies if the guest chooses to receive the QR ticket by WhatsApp instead of email.
+- **Listing is free for hosts.** No host commission appears anywhere in the production apps. The 3% / 8% tiers exist only on the old waitlist page in this repo.
+- Unknown: TradeSafe's fees and who bears them; whether any host-side take exists in practice. *(/founder-cfo)*
+
+### Guest app, production (https://trove-your-next-adventure.pages.dev; build 2026-10-20)
+- Same design as the demo, with real auth (sign-in, onboarding "Tonight lives here.") and real backend bookings with ticket codes and refunds. Tabs: Discover (For You / With Friends / Trending), Search, **Spark** (friends, groups, split ticket payments; sign-in required), Tickets, Profile, Saved, Support, Notifications.
+- **Live inventory today: 0 spots** in the feed and search. City filters: 11 cities (Joburg, Pretoria, Cape Town, Stellenbosch, Durban, Gqeberha, Bloemfontein, Polokwane, Knysna, East London).
+- **No fabricated listings or social proof are visible in production.** The bundle still ships the old demo listing file (real brand names, generated follower counts) as a lazily loaded module, but the live feed did not show it.
+- Checkout: tickets, the booking fee, optional WhatsApp delivery, ticket by WhatsApp or email.
+
+### Launch facts (from the website, repeated)
+Launch on **1 Nov 2026** in **Johannesburg and Pretoria**, 11 days from today. Host and guest sign-up lists exist. **No numbers have been shared** for signed hosts, listings ready to publish, or sign-ups.

@@ -1,31 +1,30 @@
 # Monopoly lens
-Score: 2 | Vote: PASS
+Score: 3 | Vote: PASS
 
-## What changed since round 1
-Score moved from 3 to 2. The vote stays PASS. The demo makes my biggest round-1 risk worse. Scope grew from 6 venue types in 3 cities to 9 categories in 10 cities, so about 90 cells now share no proven supply. It also shows the founder building the half of the marketplace that has no network effect. A polished seeker app with no venue-side product is a storefront with no stock. The one real gain is that the demo shows what a booking is: a dated, priced ticket, from R60 to R6,800. That makes the unit economics answerable. It does not create a moat. The demo also shows that someone can ship a good front end, but a copycat can build one too.
+## What changed since round 2
+The score goes from 2 to 3. The vote stays PASS. My round-2 risk #2 ("no supply side") was wrong: TROVE Engine exists, with listings, a door scanner, an audience CRM, team roles, payouts and TradeSafe escrow. The launch has also narrowed to Johannesburg and Pretoria, and the fabricated listings are gone from production. Those are real gains. They are not a monopoly. The live feed has 0 listings 11 days before launch, the scope still covers events, experiences, stays and venues across 11 city filters, and the new revenue model (free for hosts, R8 per guest booking) is easy to copy and gives hosts no reason to stay.
 
 ## What is strong
-- **The shape could still compound.** It is two-sided, and network effects are local, so one city and one category could tip.
-- **WhatsApp-native delivery**, with the QR ticket sent to email and WhatsApp, is still the most SA-specific know-how on show.
-- **The ticket model gives commission a real base.** Treating every listing as a priced ticket answers the round-1 question about how commission works, at least for paid events. Free listings, such as markets, still earn nothing.
-- **Craft.** The demo is coherent and mobile-first, which helps the "people" question a little.
+- **The venue-side product exists.** The network effect lives with venues, and Trove has built for that side.
+- **The audience CRM is the only possible moat on show.** Followers, past guests and regulars belong to the host inside Trove. If hosts build their regulars there, leaving costs them something. That is the start of switching costs.
+- **Free listing removes the main reason a host says no.** That helps with getting the first venues on board.
+- **Escrow, refunds handled for the host, and WhatsApp delivery** are SA-specific workflow, not just a front end.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **It is getting wider when it should be getting narrower.** Spreading 40 listings across 9 categories and 10 cities is the opposite of starting with a big share of a small market. No cell has enough supply for seekers to come back, and seekers who find nothing go back to whatever they use today.
-2. **There is no supply side and no supply moat.** The network effect lives with venues, and there is no venue dashboard, availability tool, door scanning or payout system. A ticket-for-a-dated-event model also puts Trove in the ticketing category, which is probably more crowded than "venue booking". The demo lists real festivals, venues and attractions with no stated partnership. If those businesses already sell through someone else, Trove has no exclusive inventory. Venues can also list on several platforms and pay nothing to leave. What stops a copycat in month six?
-3. **There is still no distribution answer, and the launch has slipped.** The demo has no traction numbers, no real transactions, no payment integration and no update on the missed Q2 2026 launch. We know how a seeker would book. We do not know how the first 100 venues arrive or what each one costs.
+1. **Zero supply at launch, and no single place to win.** A marketplace with 0 listings is not dominating any small market. It still offers four host types and 11 city filters. Without one cell, such as comedy in one Joburg area, that is full enough for seekers to come back, the network effect never starts. Seekers who open an empty feed on 1 November may never return.
+2. **A R8 flat fee is a commodity price with no lock-in.** Hosts pay nothing, so they can list on Trove and everywhere else at no cost. Any rival can match or undercut R8 overnight. A flat fee per booking also means Trove earns the same on a R60 karaoke ticket as on a R6,800 retreat, which limits how much it can spend to win either side. What stops a copycat in month six, apart from the CRM?
+3. **There is still no distribution answer.** No numbers have been shared for signed hosts, listings ready to publish or guest sign-ups. We know the product works end to end. We do not know how the first 100 hosts arrive or what each one costs.
 
 ## The questions I would ask the founder
-- Which single city and category will you own first? How many venues in it have actually signed?
-- Are any of the named real businesses in the demo partners, or did they agree to be listed? If neither, remove them before showing the demo to anyone.
-- What is the secret: what do you know about SA venues that the existing ticketing and booking tools do not?
-- Who already sells tickets and bookings to these hosts, and at what fee? Does a 3% Starter commission undercut them or just leave money on the table? (/founder-competitors)
-- Taking the actual ticket mix, what is the average booking value and the commission per booking, and how many bookings a month cover costs? (/founder-cfo)
-- Will 21-35-year-olds switch from Instagram, WhatsApp and the tickets they already buy to a new app for discovery? (/founder-consumer)
-- When does the venue-side product ship, and who builds it?
+- How many hosts have signed, and how many listings will be live on 1 November? In which single city and category are they concentrated?
+- What is the secret: what do you know about Joburg and Pretoria hosts that their current ticketing and booking tools miss?
+- Who already sells tickets to these hosts, and what do they charge? Is "free plus R8 to the guest" a real wedge or just the cheapest price? (/founder-competitors)
+- What do TradeSafe's fees cost per booking, and who bears them? How many bookings a month does R8 (+R5) need to cover costs? (/founder-cfo)
+- Will guests accept an R8 fee on a new app when they already buy elsewhere? (/founder-consumer)
+- Does a host's CRM data (followers, regulars) give them a reason to sell only through Trove?
 
 ## If FUND IF: the conditions
 This does not apply, because the vote is PASS. Three things would reopen it:
-1. Cut the scope to one city and one category, for example comedy or underground nightlife in one Johannesburg area.
-2. Show signed venues that make up a dominant share of that cell, with a working venue-side tool they actually use.
-3. Name a wedge that survives a copycat, such as exclusive inventory, a venue workflow that is costly to leave, or demand data that no one else has.
+1. Launch with one city and one category where Trove holds most of the bookable supply, and show that number.
+2. Show that hosts use the CRM and come back to it after 30 days, as evidence of switching costs.
+3. Show a repeat-booking rate for seekers in that cell, so the network effect is measured, not assumed.
