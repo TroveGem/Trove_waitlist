@@ -39,7 +39,7 @@ The founder confirmed that **hosts pay an 8% commission per booking**, and that 
 
 ### Round 3 detail (still valid unless noted)
 
-Reviewed: the waitlist page in this repo, the prototype (trove-1un.pages.dev), www.welovetrove.co.za, TROVE Engine (trove-engine.pages.dev, public pages and app code) and the production guest app (trove-your-next-adventure.pages.dev). The Engine was not tested while signed in.
+Reviewed: the old waitlist page in this repo (since retired by the founder; a new one exists and was not reviewed), the prototype (trove-1un.pages.dev), www.welovetrove.co.za, TROVE Engine (trove-engine.pages.dev, public pages and app code) and the production guest app (trove-your-next-adventure.pages.dev). The Engine was not tested while signed in.
 
 ## What round 3 settled
 
@@ -56,7 +56,7 @@ Reviewed: the waitlist page in this repo, the prototype (trove-1un.pages.dev), w
    - *Offers:* gross R8 needs about 1,250 paid bookings a month for R10k and about 12,500 for R100k. A 3% take beats R8 only on tickets above about R267. So R8 suits cheap, frequent nights but gives away value on high-priced items (0.12% of a R6,800 retreat). If TradeSafe's fee comes out of the R8, the margin per booking could be close to zero.
    - *Monopoly:* free hosting plus a flat fee creates no lock-in, and a rival can undercut it overnight.
    - *Product:* R8 + R5 on a R60 ticket is a 22% add-on, and it contradicts the "no booking fees" promise.
-4. **The fee story contradicts itself** (Product, Offers). "Is it free for seekers? Yes, 100% free. No booking fees." (waitlist page) vs. R8 in production. A WhatsApp-native brand charging R5 for WhatsApp delivery. The host "Pricing" link returns 404.
+4. **The fee story contradicts itself** (Product, Offers). "Service fee: Free" in the old prototype vs. R8 in production. A WhatsApp-native brand charging R5 for WhatsApp delivery. The host "Pricing" link returns 404.
 5. **No distribution numbers and no moat yet** (Monopoly, Offers). The CRM is the only candidate for switching costs, and that is unproven.
 
 ### Where the board disagrees
@@ -71,7 +71,7 @@ Reviewed: the waitlist page in this repo, the prototype (trove-1un.pages.dev), w
 - [ ] **Publish the pricing:** a working Pricing page stating 8%, and retire "R0 to list" / "Start hosting free" / "no booking fees" (all three).
 - [ ] **Have a screenful of real, bookable spots live before opening to guests**, concentrated in one category in one city (all three; Offers suggests 20–30 as a placeholder for /founder-cfo to set). If it isn't there, delay the guest launch rather than open an empty app.
 - [ ] **Hide what has no stock:** empty city filters, unused categories and "Stays" until real supply exists (Product, Monopoly).
-- [ ] **Make the fee story consistent:** show R8 upfront, retire "no booking fees" / "Service fee: Free" copy (including this repo's waitlist page), fix the 404 Pricing link, and decide on free WhatsApp delivery (Product, Offers).
+- [ ] **Make the fee story consistent:** show R8 upfront, retire "no booking fees" / "Service fee: Free" copy, fix the 404 Pricing link, and decide on free WhatsApp delivery (Product, Offers).
 - [ ] **Remove the old demo listing module** (real brand names, generated follower counts) from the production bundle (Offers, Product).
 
 **Numbers to establish:**
