@@ -30,6 +30,13 @@ The founder confirmed that **hosts pay an 8% commission per booking**, and that 
 - **The 8% contradicts every public page.** The Engine says "R0 to list" and "Start hosting free", the website promises "founding partner rates", and the Pricing link returns 404. Product: "A host first learns about the 8% from the payout, not the pitch." Monopoly: hosts who signed up expecting "free" will meet a charge.
 - **None of the 27 has a listing, 11 days before launch.** That is interest, not commitment. Either onboarding from sign-up to live listing is broken or nobody has tried it yet (Product), and it is still not a dominated cell (Monopoly). Their categories and cities are unknown.
 
+### Chair's note: follow-up facts (board not reconvened)
+
+- **The R8 guest fee stays.** Round 4 already assumed this, so the numbers above stand. Offers' suggestion to cap or drop it under about R100 is still open for /founder-cfo and /founder-consumer.
+- **The 27 are spread across categories and cities:** skydiving, events, sip-and-paint and comedy, in Johannesburg, Cape Town and Pretoria. This confirms the board's top risk ("too wide to win anywhere") rather than adding a new one. Two practical points:
+  1. **Find the densest cell among the 27 and launch there.** The count per category and city decides which one, and that count is the most useful number you could give the board.
+  2. **Cape Town hosts are signed up but Cape Town is not a launch city.** Decide what happens to them on 1 Nov (list them anyway, or give them a dated "coming soon"), and tell them before they find out from an empty city filter.
+
 ### Round 3 detail (still valid unless noted)
 
 Reviewed: the waitlist page in this repo, the prototype (trove-1un.pages.dev), www.welovetrove.co.za, TROVE Engine (trove-engine.pages.dev, public pages and app code) and the production guest app (trove-your-next-adventure.pages.dev). The Engine was not tested while signed in.
@@ -45,7 +52,7 @@ Reviewed: the waitlist page in this repo, the prototype (trove-1un.pages.dev), w
 
 1. **Empty shelf on launch day** (all three). The live feed has **0 spots, 11 days before launch**, and no numbers are shared for signed hosts or ready listings. Product: "A beautiful app with 0 spots is the worst first five minutes possible."
 2. **Still too wide** (all three). Four host types (events, experiences, stays, venues), plus promoters and artists, and 11 city filters, for a two-city launch. "Stays" is new and doesn't fit "Decide. Book. Show up."
-3. **The R8 flat fee** (all three, from different angles; *largely resolved in round 4 by the 8% commission*):
+3. **The R8 flat fee** (all three, from different angles; *largely resolved in round 4 by the 8% commission; the founder confirms the R8 guest fee stays*):
    - *Offers:* gross R8 needs about 1,250 paid bookings a month for R10k and about 12,500 for R100k. A 3% take beats R8 only on tickets above about R267. So R8 suits cheap, frequent nights but gives away value on high-priced items (0.12% of a R6,800 retreat). If TradeSafe's fee comes out of the R8, the margin per booking could be close to zero.
    - *Monopoly:* free hosting plus a flat fee creates no lock-in, and a rival can undercut it overnight.
    - *Product:* R8 + R5 on a R60 ticket is a 22% add-on, and it contradicts the "no booking fees" promise.
