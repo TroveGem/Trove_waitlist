@@ -1,0 +1,26 @@
+{
+  "business": "TROVE (marketplace; one unit = one booking; all figures ESTIMATES unless noted)",
+  "unit": "booking",
+  "price": 58.50,
+  "variable": [
+    {"label": "Payment processing: TradeSafe escrow + card, est. 3% of guest total R608", "cost": 18.24},
+    {"label": "WhatsApp confirmation + reminder, 2 utility msgs at ~R0.14 incl. VAT", "cost": 0.28},
+    {"label": "Refunds, chargebacks, goodwill: est. 2% of TROVE revenue", "cost": 1.17}
+  ],
+  "fixed_monthly": [
+    {"label": "Founder pay, 2 x R15,000 (est.)", "cost": 30000},
+    {"label": "Marketing, both sides (est.)", "cost": 15000},
+    {"label": "Hosting, software, domains, email (est.)", "cost": 2500},
+    {"label": "Accounting and legal (est.)", "cost": 2000},
+    {"label": "Phone, data, transport for host onboarding (est.)", "cost": 2000}
+  ],
+  "startup": [
+    {"label": "Launch marketing (est.)", "cost": 20000},
+    {"label": "Legal: T&Cs, POPIA, refund policy, company (est.)", "cost": 10000},
+    {"label": "Listing photos and content for the first hosts (est.)", "cost": 5000},
+    {"label": "Contingency (est.)", "cost": 5000}
+  ],
+  "days_per_month": 30,
+  "plan_per_day": 50,
+  "ramp_per_day": [5, 8, 12, 16, 20, 25, 29, 33, 37, 41, 45, 50]
+}
