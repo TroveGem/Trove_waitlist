@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I find my date-night plans on Instagram and just DM the venue or use the link in bio, and that costs me nothing extra. On a student-type budget I don't see why I'd pay R8 a booking, plus R5 if I want it on WhatsApp, for something I already do for free.",
+  "objection": "R8 on top of every booking adds up, and it's gone even if I cancel. If the venue already sells tickets through Instagram, the app is just a middleman taking a cut from me.",
+  "would_change_my_mind": "If Trove had date-night experiences I can't find or book on Instagram, or no booking fee on my first few bookings so I could see if the escrow and refund protection is actually worth it.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 15
+}

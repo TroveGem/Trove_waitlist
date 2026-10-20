@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already find our date nights on Instagram and just DM the venue or use the link in bio, and that costs me nothing extra. On my budget I'm not downloading a new app to pay R8 more for something I can already do.",
+  "objection": "R8 on top of every booking adds up, and it's gone even if I cancel. Two date nights a month for two people is a fee I don't pay now, and adding R5 just to get the ticket on WhatsApp feels like nickel-and-diming.",
+  "would_change_my_mind": "If a date-night thing I saw on Instagram could only be booked through TROVE, or the fee was dropped for a first booking so I could try it once.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 15
+}

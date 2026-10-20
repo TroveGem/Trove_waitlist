@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "My one big thing this month is something like a R3,000 skydive, and I'm not putting that through an app that launched last week when I can book straight with the operator I've already researched. The escrow sounds good on paper, but I don't know TradeSafe either, so I'll wait and see what the guys in the group say.",
+  "objection": "Is my money actually safe with a brand-new app nobody I know has used? If the host flakes or the app disappears, who do I chase for my R3,000?",
+  "would_change_my_mind": "A friend from my WhatsApp group booking through it first and getting a refund or entry with no problems, or the hosts I already trust listing it on their own pages as an official way to book.",
+  "price_too_cheap": 0,
+  "price_cheap": 5,
+  "price_expensive": 20,
+  "price_too_expensive": 40
+}
