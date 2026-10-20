@@ -104,3 +104,9 @@ Observed directly. These change several earlier "unknowns". **Where they conflic
 
 ### Launch facts (from the website, repeated)
 Launch on **1 Nov 2026** in **Johannesburg and Pretoria**, 11 days from today. Host and guest sign-up lists exist. **No numbers have been shared** for signed hosts, listings ready to publish, or sign-ups.
+
+## Update 2026-10-20 (founder-confirmed facts)
+
+Stated directly by the founder; these supersede earlier unknowns:
+- **Host pricing: TROVE charges hosts an 8% commission per booking.** This is in addition to what production shows guests (an R8 non-refundable booking fee and an optional R5 WhatsApp delivery). The founder has not said whether the R8 guest fee stays at launch. The 8% is not stated on any public page reviewed: the Engine says "R0 to list" / "Start hosting free", the website promises "founding partner rates", and the Pricing link returns 404. The 3% Starter tier on the old waitlist page is no longer current.
+- **Supply: 27 spots have signed up** but **have not yet created their profiles or listings** in the Engine. The founder has not said which categories or cities they are in, or how many will have bookable listings live by 1 Nov.

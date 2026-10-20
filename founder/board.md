@@ -1,12 +1,36 @@
 # Board summary: Trove
 
-**Round 3 (final, full product reviewed): 2 fund if, 1 pass. Average score 4.3 / 10.**
+**Round 4 (after the founder's pricing and supply facts): 2 fund if, 1 pass. Average score 4.3 / 10. No change from round 3.**
 
-| Lens | R1 (waitlist page) | R2 (+ demo) | R3 (+ website, Engine, live guest app) |
-|---|---|---|---|
-| Offers | 4 FUND IF | 4 FUND IF | **5 FUND IF** |
-| Monopoly | 3 PASS | 2 PASS | **3 PASS** |
-| Product | 4 FUND IF | 4 FUND IF | **5 FUND IF** |
+| Lens | R1 (waitlist page) | R2 (+ demo) | R3 (+ website, Engine, live guest app) | R4 (+ 8% and 27 sign-ups) |
+|---|---|---|---|---|
+| Offers | 4 FUND IF | 4 FUND IF | 5 FUND IF | **5 FUND IF** |
+| Monopoly | 3 PASS | 2 PASS | 3 PASS | **3 PASS** |
+| Product | 4 FUND IF | 4 FUND IF | 5 FUND IF | **5 FUND IF** |
+
+## Round 4: what the founder's facts changed
+
+The founder confirmed that **hosts pay an 8% commission per booking**, and that **27 spots have signed up but none has created a profile or listing yet**. Each member found that the two facts cancel each other out.
+
+**Better:**
+- **The take now scales with the ticket price.** This fixes the round-3 "R8 needs huge volume" risk. Offers' gross take per booking for 8% + R8 (one ticket per booking, before TradeSafe fees and refunds):
+
+  | Ticket | Take |
+  |---|---|
+  | R60 | R12.80 |
+  | R150 | R20 |
+  | R220 | R25.60 |
+  | R1,450 | R124 |
+  | R6,800 | R552 |
+
+  At an assumed R150 average ticket, that is about 500 bookings a month for R10k and 5,000 for R100k, against 1,250 and 12,500 under R8 alone.
+- **27 sign-ups show real interest from hosts**, which partly answers "how do the first hosts arrive?"
+
+**Worse:**
+- **The 8% contradicts every public page.** The Engine says "R0 to list" and "Start hosting free", the website promises "founding partner rates", and the Pricing link returns 404. Product: "A host first learns about the 8% from the payout, not the pitch." Monopoly: hosts who signed up expecting "free" will meet a charge.
+- **None of the 27 has a listing, 11 days before launch.** That is interest, not commitment. Either onboarding from sign-up to live listing is broken or nobody has tried it yet (Product), and it is still not a dominated cell (Monopoly). Their categories and cities are unknown.
+
+### Round 3 detail (still valid unless noted)
 
 Reviewed: the waitlist page in this repo, the prototype (trove-1un.pages.dev), www.welovetrove.co.za, TROVE Engine (trove-engine.pages.dev, public pages and app code) and the production guest app (trove-your-next-adventure.pages.dev). The Engine was not tested while signed in.
 
@@ -21,7 +45,7 @@ Reviewed: the waitlist page in this repo, the prototype (trove-1un.pages.dev), w
 
 1. **Empty shelf on launch day** (all three). The live feed has **0 spots, 11 days before launch**, and no numbers are shared for signed hosts or ready listings. Product: "A beautiful app with 0 spots is the worst first five minutes possible."
 2. **Still too wide** (all three). Four host types (events, experiences, stays, venues), plus promoters and artists, and 11 city filters, for a two-city launch. "Stays" is new and doesn't fit "Decide. Book. Show up."
-3. **The R8 flat fee** (all three, from different angles):
+3. **The R8 flat fee** (all three, from different angles; *largely resolved in round 4 by the 8% commission*):
    - *Offers:* gross R8 needs about 1,250 paid bookings a month for R10k and about 12,500 for R100k. A 3% take beats R8 only on tickets above about R267. So R8 suits cheap, frequent nights but gives away value on high-priced items (0.12% of a R6,800 retreat). If TradeSafe's fee comes out of the R8, the margin per booking could be close to zero.
    - *Monopoly:* free hosting plus a flat fee creates no lock-in, and a rival can undercut it overnight.
    - *Product:* R8 + R5 on a R60 ticket is a 22% add-on, and it contradicts the "no booking fees" promise.
@@ -36,13 +60,15 @@ Reviewed: the waitlist page in this repo, the prototype (trove-1un.pages.dev), w
 ## Conditions (checklist for the rest of the pack)
 
 **Before 1 Nov (10 days):**
+- [ ] **Onboard the 27 signed spots personally (set up their listings for them), and tell them the 8% in writing first**, plus any founding-partner discount with an end date. Report how many go live and where the rest stalled (all three; Monopoly wants at least half live *after* hearing the 8%).
+- [ ] **Publish the pricing:** a working Pricing page stating 8%, and retire "R0 to list" / "Start hosting free" / "no booking fees" (all three).
 - [ ] **Have a screenful of real, bookable spots live before opening to guests**, concentrated in one category in one city (all three; Offers suggests 20–30 as a placeholder for /founder-cfo to set). If it isn't there, delay the guest launch rather than open an empty app.
 - [ ] **Hide what has no stock:** empty city filters, unused categories and "Stays" until real supply exists (Product, Monopoly).
 - [ ] **Make the fee story consistent:** show R8 upfront, retire "no booking fees" / "Service fee: Free" copy (including this repo's waitlist page), fix the 404 Pricing link, and decide on free WhatsApp delivery (Product, Offers).
 - [ ] **Remove the old demo listing module** (real brand names, generated follower counts) from the production bundle (Offers, Product).
 
 **Numbers to establish:**
-- [ ] **Unit economics per booking:** R8 (+R5) minus TradeSafe fees, WhatsApp message cost and refunds; bookings a month to cover running costs; whether a fee scaled to ticket price above a threshold makes sense. *(/founder-cfo)*
+- [ ] **Unit economics per booking:** 8% + R8 (+R5) minus TradeSafe fees, WhatsApp message cost and refunds; bookings a month to cover running costs; and whether to drop or cap the R8 guest fee on tickets under ~R100 (Offers). *(/founder-cfo)*
 - [ ] **Guest acceptance of R8 (+R5)** on cheap tickets vs. buying directly or elsewhere. *(/founder-consumer)*
 - [ ] **What hosts use and pay today** for ticketing, reservations and door management in JHB/PTA, and whether "free to list" is a real difference. *(/founder-competitors)*
 

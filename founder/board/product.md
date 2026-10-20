@@ -1,33 +1,35 @@
 # Product lens
 Score: 5 | Vote: FUND IF
 
-## What changed since round 2
-The score goes from 4 to 5. The vote stays FUND IF.
-- **Up:** my round-2 risk #1 is mostly answered. TROVE Engine exists, with listings, capacity, slots, a door scanner, a CRM, payouts, TradeSafe escrow and refund policies set per event. That is the venue handoff I said was missing. Risk #3 is mostly answered too: the live production feed shows no fabricated listings or social proof.
-- **Not up further:** none of the Engine was tested while signed in. There are **0 live spots 11 days before launch**, so the core moment (open the app, find something tonight, book it) cannot happen for anyone yet. Focus is still wrong. Launch is down to 2 cities, but the product now covers events, experiences, **stays**, venues and community, with 11 city filters.
+## What changed since round 3
+The score stays at 5 and the vote stays FUND IF. Two new facts pull in opposite directions, so the score does not move.
+- **Better:** host pricing now has an answer (8% per booking). 27 spots have signed up, so some supply wants in.
+- **Worse:** none of the 27 has created a profile or listing, 11 days out. Hosts who were interested are not getting from sign-up to a live listing. Either that onboarding seam is broken or nobody has tried it yet, and both are product problems. The 8% also creates a new contradiction in the first thing a host reads: the Engine says "Start hosting free" and "R0 to list", the website promises "founding partner rates", and the Pricing page returns 404. A host first learns about the 8% from the payout, not the pitch.
 
 ## What is strong
-- Both sides of the marketplace are now built, not just the guest side. The door scanner and "payout after the guest has been" close the seams that kill marketplaces.
-- Escrow plus refund policies chosen by the host per event mean the money path has been designed, not left for later.
-- Production is honest. Real auth, real bookings and ticket codes, and no fake listings in the feed.
-- Craft holds up across both apps.
+- Both sides are built: the Engine (listings, slots, door scanner, CRM, payouts, TradeSafe escrow, refund policy per event) and a guest app with real auth and real bookings.
+- The money path was designed before launch, not left for later.
+- Production is honest: no fake listings or social proof in the live feed.
+- 27 host sign-ups give the founder enough people to hand-hold through a first listing.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **An empty shelf at launch.** A beautiful app with 0 spots is the worst first five minutes possible. A guest who opens it on 1 Nov and sees nothing, or three things spread across stays, comedy and hikes, does not come back. Every host type and city filter shown with no stock makes the emptiness more obvious.
-2. **Too many products for the launch.** Ticketed events, timed sessions, room nights and venue bookings each need a different listing model, door process and refund logic. Building all four on day one means none gets brilliant. "Stays" arrived late and has nothing to do with "Decide. Book. Show up."
-3. **The fee seams break the promise.** The guest was promised "no booking fees", and the older checkout said "Service fee: Free". Production now charges R8, kept if the guest cancels. On top of that, a brand sold as WhatsApp-native charges **R5 to deliver the ticket on WhatsApp**. The host Pricing link returns 404. Each of these is a moment where the experience contradicts the pitch.
+1. **An empty shelf on 1 Nov.** 27 sign-ups have produced 0 listings, and the guest feed shows 0 spots. If a guest opens the app at launch and finds nothing, or a handful of listings spread over 11 cities and 4 host types, that is the worst first five minutes the app could give.
+2. **Fees that contradict the pitch on both sides.** Hosts are told "free" and then pay 8%. Guests were once promised "no booking fees". Production charges them R8, kept if they cancel, plus R5 to get their ticket on WhatsApp, which the brand sells as its native channel. Every one of those is a seam where what the product does contradicts what it promised.
+3. **Too many products for one launch.** Events, timed experiences, stays and venue bookings each need their own listing model, door process and refund logic. Twenty-seven hosts spread across four models means none of them gets onboarded properly.
 
 ## The questions I would ask the founder
-- How many spots will be live at 00:00 on 1 Nov, in which category, in which city? Who signed them?
-- Which host type would you hide if you could only launch one? Why is "stays" in v1?
-- Walk me through a real event end to end on the Engine: create it, sell a ticket, scan it at the door, receive the payout. What failed?
-- Why charge for WhatsApp delivery when WhatsApp is the brand promise? What does a WhatsApp message actually cost you? (/founder-cfo)
-- Does R8 cover TradeSafe's fees, and who pays them? (/founder-cfo)
-- Will guests pay R8 here when they already buy tickets elsewhere? (/founder-consumer, /founder-competitors)
+- Which categories and cities are the 27 in? How many will have bookable listings live at 00:00 on 1 Nov?
+- Why has no host created a profile? Have you watched one try? Where did they stop?
+- "We'll set your profile up with you": who does that set-up, and when are the 27 booked in?
+- When does a host first see the 8%, and how does that sit next to "Start hosting free"?
+- Does the R8 guest fee stay alongside the 8%? What does a host keep on a R150 ticket once TradeSafe's fees are taken? (/founder-cfo)
+- Will hosts accept 8% when they compare it with the ticketing tools they already use? (/founder-competitors)
+- Will guests pay R8 plus R5 for WhatsApp delivery? (/founder-consumer)
 
 ## If FUND IF: the conditions
-1. Launch one host type (events or experiences) in Johannesburg only. Hide stays, unused categories and empty city filters until real stock is behind them.
-2. Have at least a screenful of real, bookable spots live before opening the doors to guests. Delay the guest launch rather than open an empty app.
-3. Run 20+ real bookings end to end (book, scan at the door, payout, a refund) and report the failure rate at each handoff.
-4. Make the fee story consistent everywhere: show R8 upfront, retire the "no booking fees" copy, fix the 404 Pricing page, and decide whether WhatsApp delivery should be free.
-5. Strip the old demo listing module from the production bundle.
+1. Personally set up listings for the 27 before 1 Nov. Report how many go live and where each of the others stalled.
+2. Launch one host type in one city (Johannesburg), with the categories that actually have stock. Hide stays, empty categories and empty city filters.
+3. Hold the guest launch until there is at least a screenful of real, bookable spots.
+4. Make pricing say the same thing everywhere: state the 8% on the Engine and on a working Pricing page, retire "hosting free" and "no booking fees", and decide on R8 and whether WhatsApp delivery is free.
+5. Run 20+ real bookings end to end (book, scan at the door, pay out, refund one) and report the failures at each handoff.
+6. Remove the old demo listing module from the production bundle.

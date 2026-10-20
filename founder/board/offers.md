@@ -1,30 +1,39 @@
 # Offers lens
 Score: 5/10 | Vote: FUND IF
 
-## What changed since round 2
-Score goes up from 4 to 5. The vote stays FUND IF. My round-2 kill #1 was that the offer to venues did not exist. It now does: TROVE Engine has listings, a door scanner, payouts, a CRM and TradeSafe escrow, and listing costs R0. Kill #3 (fake proof) is mostly fixed, because production shows no invented listings or social proof. Two things stop the score going higher. First, there are **0 live listings 11 days before launch**. Second, the money now comes from a flat R8 guest fee instead of a venue commission. That moves the whole risk onto volume.
+## What changed since round 3
+The score stays at 5 and the vote stays FUND IF. Two things moved, in opposite directions. **Better:** the 8% host commission fixes my round-3 kill #2. Revenue now grows with the ticket price, so a R6,800 retreat no longer earns R8. **Worse:** the 8% contradicts every public page. Those pages say "R0 to list", "Start hosting free" and "founding partner rates", and the Pricing link returns a 404. On top of that, 27 sign-ups with 0 profiles and 0 listings, 11 days out, show interest but not commitment. These cancel out.
+
+## Revenue arithmetic (round 4)
+Assumptions: one ticket per booking; the R8 guest fee stays; R5 WhatsApp delivery is treated as a pass-through and left out; figures are gross, before TradeSafe fees (unknown) and refunds.
+- R60 karaoke: R4.80 + R8 = **R12.80**
+- R150 club night: R12 + R8 = **R20**
+- R220 rooftop: R17.60 + R8 = **R25.60**
+- R1,450 paraglide: R116 + R8 = **R124**
+- R6,800 retreat: R544 + R8 = **R552**
+
+At an assumed R150 average ticket, R10,000 a month takes 500 bookings and R100,000 takes 5,000, against 1,250 and 12,500 under R8 alone. The fee now scales. Each booking is still small money, though, so volume still decides the outcome.
 
 ## What is strong
-- **The host offer is close to risk-free:** R0 to list, escrowed card payments, payouts in rand, refunds handled, a QR scanner that runs on any phone, and setup done with the host. Effort and sacrifice for the venue are close to zero. That is the right way to win the supply side.
-- **The proof problem is mostly gone.** Escrow and per-event refund rules give guests a real reason to believe they will either get in or get their money back.
-- **R8 is easy to understand.** At these ticket prices it is a small fee, unlike a percentage of the ticket.
+- **Pricing now fits the value delivered:** a percentage on big tickets, a flat floor on small ones.
+- **The host tool stack is real:** escrow, door scanner, payouts, CRM, setup done with the host. Effort for a host is low.
+- **27 hosts said yes without being asked to pay anything up front.** That is early proof that the offer reaches hosts.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **No supply, no offer.** An empty feed gives guests nothing to want, and nothing in the brief shows signed hosts or listings ready to go live. A free offer that no host has accepted is still unproven.
-2. **R8 needs very high volume.** Assumption: R8 is gross revenue, before TradeSafe and WhatsApp costs, which are unknown. On that basis, R10,000 a month takes 1,250 paid bookings, and R100,000 takes 12,500. A 3% take only beats R8 on tickets above about R267. So on the cheap, frequent nights (R60 to R220), R8 earns more than a commission would. On a R6,800 retreat, though, R8 is 0.12% of the ticket and gives away the value. If TradeSafe's fee comes out of R8, the margin on each booking could be close to zero.
-3. **The market keeps getting wider.** Events, experiences, stays, venues, promoters and artists now sit across 11 city filters, even though launch is only in Johannesburg and Pretoria. Each of these has a different buyer and a different pain. Ten days is not enough to fill all of them, and a thin spread across many categories looks emptier than a few categories that are full.
+1. **No listings means no offer.** Guests are offered nothing until hosts publish. 27 sign-ups with 0 listings is a conversion problem now, not a pipeline.
+2. **A pricing surprise breaks trust.** A host who signed up under "free" and "R0 to list" and then finds 8% at their first payout feels misled. On the guest side, R8 + R5 on a R60 ticket is still a 22% add-on. In both cases the price is the problem, at the exact moment likelihood should be rising.
+3. **The scope is too wide for the supply.** 27 unknown hosts spread over events, experiences, stays and venues in two cities make a thin feed. A thin feed looks dead.
 
 ## The questions I would ask the founder
-- How many hosts have signed up, and how many listings are ready to publish on 1 November?
-- Who pays TradeSafe's fee, and what is left of R8 after it and the cost of a WhatsApp message? (/founder-cfo)
-- How many bookings a month cover the running costs? (/founder-cfo)
-- Does R8 plus R5 on a R60 ticket (a 22% add-on) put guests off at checkout? (/founder-consumer)
-- What do hosts pay on the tools they already use to sell tickets? Is "free" really the difference? (/founder-competitors)
-- Why is there no fee scaled to the ticket price on high-value bookings?
-- Has the demo listing bundle, with real brand names, been removed from the production build?
+- How many of the 27 hosts will have bookable listings live by 1 November? In which category and city?
+- Do the 27 know about the 8%? What do "founding partner rates" actually mean in numbers?
+- Who pays TradeSafe's fee, and what is left of each booking after it? (/founder-cfo)
+- How many bookings a month cover running costs? (/founder-cfo)
+- What do hosts pay on the ticketing tools they use today? Is 8% + R8 competitive? (/founder-competitors)
+- Does R8 + R5 on tickets under R100 cause guests to abandon checkout? (/founder-consumer)
 
 ## If FUND IF: the conditions
-1. **On 1 November, launch with one category in one city**, not four host types across two cities, and launch only once 20 to 30 real listings are live. The number is my assumption; /founder-cfo should set the real target.
-2. **Model what is left of each R8 after costs** and add a fee scaled to the ticket price above a set threshold before launch (/founder-cfo).
-3. **Get proof from the first 30 days:** real bookings, door check-in rates and no-shows, so the venue claims stop being promises. Remove the demo listing module.
-4. **Back founding hosts with a guarantee**, for example a dated "we fill N seats or we promote you free". That is real urgency, unlike a countdown with nothing behind it.
+1. **Publish the pricing before 1 November.** Fix the Pricing page and put the 8% (and any founding discount, with an end date) in writing to all 27 hosts. Remove the "free" copy that contradicts it.
+2. **Get listings live before the marketing goes out:** onboard the 27 by hand and launch one category in one city. The minimum listing count is for /founder-cfo to set.
+3. **Model the margin on each booking** after TradeSafe and WhatsApp costs, and consider dropping or capping the R8 fee on tickets under R100 (/founder-cfo, /founder-consumer).
+4. **Give founding hosts a dated guarantee,** for example "no commission until we deliver your first N bookings". That is real urgency and real risk reversal.

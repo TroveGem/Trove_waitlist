@@ -1,30 +1,31 @@
 # Monopoly lens
 Score: 3 | Vote: PASS
 
-## What changed since round 2
-The score goes from 2 to 3. The vote stays PASS. My round-2 risk #2 ("no supply side") was wrong: TROVE Engine exists, with listings, a door scanner, an audience CRM, team roles, payouts and TradeSafe escrow. The launch has also narrowed to Johannesburg and Pretoria, and the fabricated listings are gone from production. Those are real gains. They are not a monopoly. The live feed has 0 listings 11 days before launch, the scope still covers events, experiences, stays and venues across 11 city filters, and the new revenue model (free for hosts, R8 per guest booking) is easy to copy and gives hosts no reason to stay.
+## What changed since round 3
+The score stays 3 and the vote stays PASS. Two new facts point in opposite directions, so the score does not move. The 8% host commission fixes my round-3 complaint about the flat fee: Trove's take now grows with ticket value, so a R1,450 paraglide earns far more than a R60 karaoke night, and there is money to spend winning supply. But it removes the "free for hosts" wedge, and it contradicts every public page ("R0 to list", "Start hosting free", "founding partner rates", a Pricing page that returns 404). Hosts who signed up for "free" will meet an 8% charge. The 27 signed-up spots partly answer "how do the first hosts arrive". They are not supply, though: 0 of 27 have a profile or listing 11 days before launch, and nobody knows their categories or cities. That is still not a dominated cell.
 
 ## What is strong
-- **The venue-side product exists.** The network effect lives with venues, and Trove has built for that side.
-- **The audience CRM is the only possible moat on show.** Followers, past guests and regulars belong to the host inside Trove. If hosts build their regulars there, leaving costs them something. That is the start of switching costs.
-- **Free listing removes the main reason a host says no.** That helps with getting the first venues on board.
-- **Escrow, refunds handled for the host, and WhatsApp delivery** are SA-specific workflow, not just a front end.
+- **The take now matches the value delivered.** 8% plus R8 (+R5) per booking gives a margin that can pay for host acquisition, which the R8 alone could not.
+- **27 hosts said yes without being shown a price.** That shows some pull on the supply side in Joburg and Pretoria.
+- **The Engine is real workflow.** Escrow, door scanner, refunds and the audience CRM are the only possible source of switching costs on show.
+- **The launch is narrowed to two cities.** That is the right direction for owning a small market.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **Zero supply at launch, and no single place to win.** A marketplace with 0 listings is not dominating any small market. It still offers four host types and 11 city filters. Without one cell, such as comedy in one Joburg area, that is full enough for seekers to come back, the network effect never starts. Seekers who open an empty feed on 1 November may never return.
-2. **A R8 flat fee is a commodity price with no lock-in.** Hosts pay nothing, so they can list on Trove and everywhere else at no cost. Any rival can match or undercut R8 overnight. A flat fee per booking also means Trove earns the same on a R60 karaoke ticket as on a R6,800 retreat, which limits how much it can spend to win either side. What stops a copycat in month six, apart from the CRM?
-3. **There is still no distribution answer.** No numbers have been shared for signed hosts, listings ready to publish or guest sign-ups. We know the product works end to end. We do not know how the first 100 hosts arrive or what each one costs.
+1. **An empty marketplace on launch day.** 27 signups and 0 listings, spread over unknown categories, across 11 city filters and four host types, means no cell is full enough for seekers to come back. A network effect cannot start from zero, and a first visit to an empty feed is hard to win back.
+2. **A pricing surprise that pushes hosts to multi-home, or to leave.** Charging both sides (8% to hosts, R8 + R5 to guests) is a stacked fee. Nothing yet locks a host in, so the first price hosts see on 1 Nov is when they compare Trove with whatever they already use. If the CRM is not sticky by then, they keep selling elsewhere, and Trove becomes one more channel with thin margins.
+3. **Conversion, not interest, is the distribution question.** Getting a signup cost little. Getting a live, bookable listing is the real step, and it is 0 for 27. Until that converts, nobody knows what one live host costs.
 
 ## The questions I would ask the founder
-- How many hosts have signed, and how many listings will be live on 1 November? In which single city and category are they concentrated?
-- What is the secret: what do you know about Joburg and Pretoria hosts that their current ticketing and booking tools miss?
-- Who already sells tickets to these hosts, and what do they charge? Is "free plus R8 to the guest" a real wedge or just the cheapest price? (/founder-competitors)
-- What do TradeSafe's fees cost per booking, and who bears them? How many bookings a month does R8 (+R5) need to cover costs? (/founder-cfo)
-- Will guests accept an R8 fee on a new app when they already buy elsewhere? (/founder-consumer)
-- Does a host's CRM data (followers, regulars) give them a reason to sell only through Trove?
+- Of the 27, which categories and which suburb? Is there one cell (say, comedy in one Joburg area) where they would make up most of the bookable supply?
+- How many will have bookable listings on 1 Nov, and who will build those listings for them ("we'll set your profile up with you")?
+- When do hosts first see the 8%, and what are the "founding partner rates"? Is 8% the founding rate or the standard rate?
+- What do hosts already pay to sell tickets within reach of the same guests? Is 8% plus a guest fee above or below that? (/founder-competitors)
+- Will a 21-35 guest pay R8 (+R5) on a new app for an event they can buy elsewhere? (/founder-consumer)
+- After TradeSafe's fees, what is the margin per booking at 8% + R8, and how many live hosts break even? (/founder-cfo)
+- What is the secret: what does Trove know about these hosts that their current tools miss?
 
 ## If FUND IF: the conditions
-This does not apply, because the vote is PASS. Three things would reopen it:
-1. Launch with one city and one category where Trove holds most of the bookable supply, and show that number.
-2. Show that hosts use the CRM and come back to it after 30 days, as evidence of switching costs.
-3. Show a repeat-booking rate for seekers in that cell, so the network effect is measured, not assumed.
+This section does not apply, because the vote is PASS. These would reopen it:
+1. One named city and category cell where Trove holds most of the bookable supply at launch, with the number shown.
+2. Hosts told about the 8% in writing, and at least half of the 27 live and bookable after hearing it.
+3. 30-day evidence of switching costs: hosts returning to the CRM, and a repeat-booking rate for guests in that cell.
