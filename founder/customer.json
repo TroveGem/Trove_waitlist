@@ -1,0 +1,38 @@
+{
+  "business": "TROVE, an app to discover and book events and experiences in Johannesburg and Pretoria",
+  "target": "People aged 21 to 35 in Johannesburg and Pretoria who go out at least a few times a month (comedy, events, sip-and-paint, adventure activities). All incomes and prices are in South African Rand, so read every $ as R",
+  "where": "Johannesburg and Pretoria, South Africa",
+  "age": [21, 35],
+  "segments": [
+    {"name": "Student or first job", "share": 0.30, "income": [60000, 180000]},
+    {"name": "Young professional", "share": 0.45, "income": [180000, 480000]},
+    {"name": "Established professional", "share": 0.25, "income": [480000, 1100000]}
+  ],
+  "behaviours": [
+    {"name": "Instagram discoverer", "share": 0.22, "how": "Finds plans on Instagram and TikTok, then DMs or WhatsApps the venue or buys through the link in bio."},
+    {"name": "Group organiser", "share": 0.16, "how": "Plans outings for friends in a WhatsApp group and chases everyone to pay them back."},
+    {"name": "Loyal to existing ticket apps", "share": 0.14, "how": "Already buys event tickets on the platforms they know and trusts them."},
+    {"name": "Spontaneous", "share": 0.14, "how": "Decides on the day, often after 6pm, and pays at the door."},
+    {"name": "Budget-conscious", "share": 0.14, "how": "Watches every rand, hates extra fees, looks for free or cheap entry."},
+    {"name": "Experience collector", "share": 0.10, "how": "Saves up for one big experience a month, like skydiving or a tasting, and researches it carefully."},
+    {"name": "Reads every review", "share": 0.08, "how": "Will not book anything without reviews and photos from real people."}
+  ],
+  "objections": [
+    "Another app? I already buy tickets on the platforms I use",
+    "R8 on top of every booking adds up",
+    "Is my money safe with a brand-new app I've never heard of?",
+    "Why not just pay at the door or WhatsApp the venue?",
+    "What if the event gets cancelled? Will I actually get a refund?",
+    "There probably isn't much on it yet",
+    "Paying R5 to get my ticket on WhatsApp feels petty"
+  ],
+  "habits": [
+    "you live in Braamfontein and walk most places at night with friends",
+    "you work in Sandton and look for plans on Thursday for the weekend",
+    "you live in Pretoria East and drive everywhere",
+    "you are in a WhatsApp group of eight friends who go out together most weekends",
+    "you use data sparingly and only download apps you will use often",
+    "you go to a comedy show or a live event about twice a month",
+    "you take your partner on a planned date night every second Saturday"
+  ]
+}

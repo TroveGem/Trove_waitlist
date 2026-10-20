@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Rohan",
+  "age": 32,
+  "segment": "Established professional",
+  "income": 543000,
+  "behaviour": "Group organiser",
+  "behaviour_how": "Plans outings for friends in a WhatsApp group and chases everyone to pay them back.",
+  "objection": "Why not just pay at the door or WhatsApp the venue?",
+  "habit": "you live in Pretoria East and drive everywhere"
+ },
+ {
+  "id": "P002",
+  "name": "Ravi",
+  "age": 27,
+  "segment": "Established professional",
+  "income": 878000,
+  "behaviour": "Instagram discoverer",
+  "behaviour_how": "Finds plans on Instagram and TikTok, then DMs or WhatsApps the venue or buys through the link in bio.",
+  "objection": "Paying R5 to get my ticket on WhatsApp feels petty",
+  "habit": "you use data sparingly and only download apps you will use often"
+ },
+ {
+  "id": "P003",
+  "name": "Ruby",
+  "age": 34,
+  "segment": "Student or first job",
+  "income": 161000,
+  "behaviour": "Budget-conscious",
+  "behaviour_how": "Watches every rand, hates extra fees, looks for free or cheap entry.",
+  "objection": "What if the event gets cancelled? Will I actually get a refund?",
+  "habit": "you live in Braamfontein and walk most places at night with friends"
+ },
+ {
+  "id": "P004",
+  "name": "Alma",
+  "age": 33,
+  "segment": "Young professional",
+  "income": 291000,
+  "behaviour": "Loyal to existing ticket apps",
+  "behaviour_how": "Already buys event tickets on the platforms they know and trusts them.",
+  "objection": "Why not just pay at the door or WhatsApp the venue?",
+  "habit": "you work in Sandton and look for plans on Thursday for the weekend"
+ },
+ {
+  "id": "P005",
+  "name": "Quinn",
+  "age": 21,
+  "segment": "Student or first job",
+  "income": 97000,
+  "behaviour": "Loyal to existing ticket apps",
+  "behaviour_how": "Already buys event tickets on the platforms they know and trusts them.",
+  "objection": "R8 on top of every booking adds up",
+  "habit": "you are in a WhatsApp group of eight friends who go out together most weekends"
+ },
+ {
+  "id": "P006",
+  "name": "Caleb",
+  "age": 28,
+  "segment": "Young professional",
+  "income": 457000,
+  "behaviour": "Spontaneous",
+  "behaviour_how": "Decides on the day, often after 6pm, and pays at the door.",
+  "objection": "Another app? I already buy tickets on the platforms I use",
+  "habit": "you are in a WhatsApp group of eight friends who go out together most weekends"
+ },
+ {
+  "id": "P007",
+  "name": "Arjun",
+  "age": 34,
+  "segment": "Young professional",
+  "income": 182000,
+  "behaviour": "Spontaneous",
+  "behaviour_how": "Decides on the day, often after 6pm, and pays at the door.",
+  "objection": "Paying R5 to get my ticket on WhatsApp feels petty",
+  "habit": "you live in Braamfontein and walk most places at night with friends"
+ },
+ {
+  "id": "P008",
+  "name": "Theo",
+  "age": 27,
+  "segment": "Established professional",
+  "income": 821000,
+  "behaviour": "Instagram discoverer",
+  "behaviour_how": "Finds plans on Instagram and TikTok, then DMs or WhatsApps the venue or buys through the link in bio.",
+  "objection": "Why not just pay at the door or WhatsApp the venue?",
+  "habit": "you are in a WhatsApp group of eight friends who go out together most weekends"
+ },
+ {
+  "id": "P009",
+  "name": "Ivy",
+  "age": 32,
+  "segment": "Young professional",
+  "income": 288000,
+  "behaviour": "Loyal to existing ticket apps",
+  "behaviour_how": "Already buys event tickets on the platforms they know and trusts them.",
+  "objection": "What if the event gets cancelled? Will I actually get a refund?",
+  "habit": "you work in Sandton and look for plans on Thursday for the weekend"
+ },
+ {
+  "id": "P010",
+  "name": "Elle",
+  "age": 26,
+  "segment": "Established professional",
+  "income": 849000,
+  "behaviour": "Experience collector",
+  "behaviour_how": "Saves up for one big experience a month, like skydiving or a tasting, and researches it carefully.",
+  "objection": "What if the event gets cancelled? Will I actually get a refund?",
+  "habit": "you take your partner on a planned date night every second Saturday"
+ },
+ {
+  "id": "P011",
+  "name": "Selin",
+  "age": 33,
+  "segment": "Established professional",
+  "income": 970000,
+  "behaviour": "Reads every review",
+  "behaviour_how": "Will not book anything without reviews and photos from real people.",
+  "objection": "R8 on top of every booking adds up",
+  "habit": "you take your partner on a planned date night every second Saturday"
+ },
+ {
+  "id": "P012",
+  "name": "Noah",
+  "age": 28,
+  "segment": "Student or first job",
+  "income": 132000,
+  "behaviour": "Instagram discoverer",
+  "behaviour_how": "Finds plans on Instagram and TikTok, then DMs or WhatsApps the venue or buys through the link in bio.",
+  "objection": "R8 on top of every booking adds up",
+  "habit": "you take your partner on a planned date night every second Saturday"
+ },
+ {
+  "id": "P013",
+  "name": "Nico",
+  "age": 22,
+  "segment": "Young professional",
+  "income": 263000,
+  "behaviour": "Group organiser",
+  "behaviour_how": "Plans outings for friends in a WhatsApp group and chases everyone to pay them back.",
+  "objection": "Paying R5 to get my ticket on WhatsApp feels petty",
+  "habit": "you take your partner on a planned date night every second Saturday"
+ },
+ {
+  "id": "P014",
+  "name": "Luis",
+  "age": 35,
+  "segment": "Student or first job",
+  "income": 124000,
+  "behaviour": "Experience collector",
+  "behaviour_how": "Saves up for one big experience a month, like skydiving or a tasting, and researches it carefully.",
+  "objection": "Is my money safe with a brand-new app I've never heard of?",
+  "habit": "you are in a WhatsApp group of eight friends who go out together most weekends"
+ },
+ {
+  "id": "P015",
+  "name": "Finn",
+  "age": 24,
+  "segment": "Young professional",
+  "income": 219000,
+  "behaviour": "Spontaneous",
+  "behaviour_how": "Decides on the day, often after 6pm, and pays at the door.",
+  "objection": "Paying R5 to get my ticket on WhatsApp feels petty",
+  "habit": "you live in Pretoria East and drive everywhere"
+ },
+ {
+  "id": "P016",
+  "name": "Fatima",
+  "age": 27,
+  "segment": "Student or first job",
+  "income": 167000,
+  "behaviour": "Budget-conscious",
+  "behaviour_how": "Watches every rand, hates extra fees, looks for free or cheap entry.",
+  "objection": "Is my money safe with a brand-new app I've never heard of?",
+  "habit": "you live in Pretoria East and drive everywhere"
+ },
+ {
+  "id": "P017",
+  "name": "Pablo",
+  "age": 35,
+  "segment": "Young professional",
+  "income": 449000,
+  "behaviour": "Budget-conscious",
+  "behaviour_how": "Watches every rand, hates extra fees, looks for free or cheap entry.",
+  "objection": "Why not just pay at the door or WhatsApp the venue?",
+  "habit": "you use data sparingly and only download apps you will use often"
+ },
+ {
+  "id": "P018",
+  "name": "Rhys",
+  "age": 24,
+  "segment": "Young professional",
+  "income": 352000,
+  "behaviour": "Group organiser",
+  "behaviour_how": "Plans outings for friends in a WhatsApp group and chases everyone to pay them back.",
+  "objection": "Is my money safe with a brand-new app I've never heard of?",
+  "habit": "you live in Braamfontein and walk most places at night with friends"
+ },
+ {
+  "id": "P019",
+  "name": "Grace",
+  "age": 31,
+  "segment": "Young professional",
+  "income": 373000,
+  "behaviour": "Reads every review",
+  "behaviour_how": "Will not book anything without reviews and photos from real people.",
+  "objection": "Is my money safe with a brand-new app I've never heard of?",
+  "habit": "you live in Pretoria East and drive everywhere"
+ },
+ {
+  "id": "P020",
+  "name": "Emil",
+  "age": 26,
+  "segment": "Student or first job",
+  "income": 74000,
+  "behaviour": "Instagram discoverer",
+  "behaviour_how": "Finds plans on Instagram and TikTok, then DMs or WhatsApps the venue or buys through the link in bio.",
+  "objection": "R8 on top of every booking adds up",
+  "habit": "you take your partner on a planned date night every second Saturday"
+ }
+]

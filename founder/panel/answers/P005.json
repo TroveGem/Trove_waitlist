@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My group already books through the ticket apps we know, and they work fine. I'm not moving eight people onto a brand-new app that launches on 1 November and adds R8 to every booking when nothing's actually broken.",
+  "objection": "R8 on top of every booking adds up, and I lose it if I cancel. On top of that it's a new app nobody in my group has used, so why switch?",
+  "would_change_my_mind": "If it had an event my friends wanted that I couldn't get on my usual apps, or if one of the group used it first and said it was smooth, with no booking fee on the first booking.",
+  "price_too_cheap": 0,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 15
+}

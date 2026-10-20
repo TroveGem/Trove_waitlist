@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already find my plans on Instagram and TikTok and just DM the venue or tap the link in bio, so I'm not downloading another app for something I do a few times a month. The R8 doesn't bother me, but the R5 to get my ticket on WhatsApp feels petty when that's where I live anyway.",
+  "objection": "Why do I need a whole new app when the link in bio already works? It has to earn its space on my phone, and a brand new app with no track record hasn't done that yet.",
+  "would_change_my_mind": "If a show I already want to see on Instagram linked straight to TROVE and I could book there without installing anything, with the WhatsApp ticket included free.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 20,
+  "price_too_expensive": 40
+}

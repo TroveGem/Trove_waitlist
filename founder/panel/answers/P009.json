@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already book everything on the ticket apps I know, and they work fine for me. Escrow sounds good, but a new app launching in November isn't going to pull me away unless it has something I can't find anywhere else.",
+  "objection": "If the host cancels, will I actually get my money back quickly, or will I be chasing a brand-new app and someone called TradeSafe for weeks? My usual platforms have already shown me they pay out.",
+  "would_change_my_mind": "An event I actually want to go to that is only listed on TROVE, plus reviews from friends showing that refunds really came through.",
+  "price_too_cheap": 0,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 30
+}

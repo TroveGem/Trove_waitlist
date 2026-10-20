@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "The escrow thing actually answers my main worry: if the host cancels I get my money back because it hasn't gone to them yet. I'd try it once for a cheap comedy show with friends, but I'm not paying the R5 for WhatsApp, email is fine.",
+  "objection": "R8 doesn't sound like much, but it's an extra fee on top of every ticket, and if I can't make it I lose it plus whatever the host's refund policy keeps. If the same show is on the host's own page without the fee, I'll just book there.",
+  "would_change_my_mind": "If I found the same event cheaper booking directly with the host, I'd skip TROVE completely.",
+  "price_too_cheap": 0,
+  "price_cheap": 3,
+  "price_expensive": 10,
+  "price_too_expensive": 20
+}
