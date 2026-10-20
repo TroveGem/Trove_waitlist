@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "skills": {
+    "adaptive-glass": {
+      "source": "./.favstash-studio/skills-source",
+      "sourceType": "local",
+      "computedHash": "c7774c5bdc0f9f6bfe6608b3da168f109752b8ddd1f7f29b518ae58e56a471e4"
+    },
+    "breakout-card": {
+      "source": "./.favstash-studio/skills-source",
+      "sourceType": "local",
+      "computedHash": "1bd72101fe667fac6c041e29dbff98edc69e5a3e2320ba8ee6fe76891be7dd59"
+    },
+    "edit-video": {
+      "source": "./.favstash-studio/skills-source",
+      "sourceType": "local",
+      "computedHash": "6b34fa191386317dc41ef8ed8a6de23f439c4ec4b34636e576ee59e4c1161585"
+    },
+    "find-ideas": {
+      "source": "./.favstash-studio/skills-source",
+      "sourceType": "local",
+      "computedHash": "c378b43192a81dd09f18bfdde63f91187a2f1070cb710e20971f3156fdff31da"
+    },
+    "motion-effects": {
+      "source": "./.favstash-studio/skills-source",
+      "sourceType": "local",
+      "computedHash": "b9a6335c1158de0b658853f3a75d573696902aee10b6e12ca3a3d0f1ce52a60e"
+    },
+    "paper-grid": {
+      "source": "./.favstash-studio/skills-source",
+      "sourceType": "local",
+      "computedHash": "39b6d273a594da0e4dac3f5bb75d285c8b14aece81b700393503b2280b258c62"
+    },
+    "product-motion-ads": {
+      "source": "./.favstash-studio/skills-source",
+      "sourceType": "local",
+      "computedHash": "569216c852ed986998a655e67f2835417a2e8586f1bd2211ae41d536a5f0cba4"
+    },
+    "publish-and-analyze": {
+      "source": "./.favstash-studio/skills-source",
+      "sourceType": "local",
+      "computedHash": "e1599c8012dbe76f1c9ae8105f0e426730dd43f8c8bf390f1a8006fa045f08cf"
+    },
+    "text-over-footage": {
+      "source": "./.favstash-studio/skills-source",
+      "sourceType": "local",
+      "computedHash": "c9afa15ffc6d250d54d8e40e5ec5dc659946b4746ea231b9f65dee590abedd7c"
+    },
+    "write-script": {
+      "source": "./.favstash-studio/skills-source",
+      "sourceType": "local",
+      "computedHash": "14c07443d0e8f7a62ac1da789e59752437fb5fe2ccb438055dfa690e30e76025"
+    }
+  }
+}
