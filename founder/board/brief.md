@@ -63,3 +63,16 @@ The founder shared a live clickable demo. What it actually contains (observed di
 - A "Host +" bubble exists and the backend has user profiles with an "is host" flag, but **there is no venue-side product in the demo**: no venue dashboard, listing creation, availability management, door scanning, analytics, or payouts.
 
 **What the demo does not show:** any real venue partner, any real transaction, any payment provider integration, any commission or venue pricing, any WhatsApp integration (only copy promising it), or traction numbers.
+
+## Update 2026-10-20: the company website (https://www.welovetrove.co.za)
+
+Observed directly. Three pages: home (`/`), hosts (`/partners`), guest sign-up (`/notify`).
+
+- **Launch date:** a countdown to **1 November 2026, 00:00 SAST** (11 days from today). Title: "TROVE | Launching Soon".
+- **Launch cities: Johannesburg and Pretoria** ("get on the TROVE partner list before we open in Johannesburg and Pretoria"). This is narrower than the waitlist page (3 cities) and the demo (10 city filters).
+- **Positioning:** "Events, experiences and stays across South Africa, all in one app. Find your next night out and book it in seconds." It lists four pillars: Events (gigs, comedy, festivals, club nights), Experiences (tastings, tours, adventures), **Stays** ("somewhere good to sleep after the night out", which is new and not in the demo) and Community (see where friends are going).
+- **For hosts (/partners), "TROVE FOR HOSTS — Turn your space into a destination":** "Founding partner rates: lock in launch pricing on every ticket and booking." "One dashboard: listings, tickets, guest lists and payouts in a single place." "Reach the right crowd." "We'll set your profile up with you." The sign-up takes under a minute and asks for no payment details. Partner types: Venue, Promoter, Experience host, Stay/accommodation, Artist/performer. City options: Johannesburg, Pretoria, Cape Town, Durban, Gqeberha, Elsewhere. **The site states no commission rates.** The 3% / 8% tiers appear only on the older waitlist page.
+- **For guests (/notify):** an email-only sign-up. "Rooftops, comedy, club nights, adventure — one tap away."
+- **Socials:** Instagram, TikTok, LinkedIn and WhatsApp, all under @welovetrove. Forms are backed by Supabase.
+- **Other apps linked from the site's code (not reviewed, because they were unreachable from this session):** `trove-engine.pages.dev`, with a sign-up link, which appears to be the host/venue-side "engine"; and `trove-your-next-adventure.pages.dev`, a seeker app. Whether a venue-side product exists is therefore **unconfirmed**, not absent.
+- No traction numbers, partner names or team information on the site.

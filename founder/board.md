@@ -6,6 +6,16 @@ Round 1 was based only on the waitlist page and averaged 3.7.
 
 Inputs: the waitlist page and the demo at https://trove-1un.pages.dev. www.welovetrove.co.za could not be reached and has not been reviewed.
 
+## Addendum: the website (reviewed after round 2, board not reconvened)
+
+www.welovetrove.co.za answers three open questions and raises one:
+- **Launch status is resolved:** the countdown is to **1 Nov 2026** in **Johannesburg and Pretoria**. Two neighbouring cities is the first sign of the narrowing the board asked for, though it is still every category.
+- **The venue side may exist.** The site promises "one dashboard: listings, tickets, guest lists and payouts", and its code links to `trove-engine.pages.dev`, which looks like the host app. This session couldn't reach it. **If it works, the board's #2 risk (no venue product) mostly goes away, and the vote should be re-run.**
+- **Pricing for venues is now unstated** ("founding partner rates"). The 3% / 8% tiers appear only on the old waitlist page. *(/founder-cfo)*
+- **New scope:** "Stays" (accommodation) and promoter and artist partner types widen the offer again, against the board's advice.
+
+Updated checklist items: ~~explain the missed Q2 launch~~ (now 1 Nov, JHB + PTA); **review the host engine before reconvening the board.**
+
 ## What the demo changed
 
 **Better:**
