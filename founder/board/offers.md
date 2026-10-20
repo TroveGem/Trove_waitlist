@@ -1,27 +1,30 @@
 # Offers lens
 Score: 4/10 | Vote: FUND IF
 
+## What changed since round 1
+Score and vote unchanged. Two things moved up and two moved down, so they cancel. **Up:** the demo makes the seeker side almost effortless (a 30-second, 3-step checkout, a free service fee, a QR ticket on WhatsApp), and it settles the unit of revenue for ticketed items, because every listing is a dated, priced ticket. **Down:** the buyer who pays, the venue, gets nothing in the demo. There is no dashboard, no payouts and no door scanning. And instead of narrowing, the market has grown from 6 venue types in 3 cities to 9 categories in 10 cities.
+
 ## What is strong
-- **The buyer is the venue, and the venue's pain can be paid for.** An empty seat on a Tuesday is lost money the owner can feel. "Fill empty seats in off-peak hours" is the right dream outcome.
-- **Low effort and low risk for the venue.** No upfront or monthly fee on Starter, and you pay only when you earn. That works like a guarantee built into the price.
-- **WhatsApp-native confirmations and reminders** fix a problem venues know well (no-shows) on a channel they already use. That item is cheap to deliver and valuable to the buyer.
+- **Seeker effort and time are close to zero.** That is the right half of the value equation, and the demo shows it is buildable.
+- **A booking now has a price.** Tickets from R60 to R6,800 make the commission something you can calculate. It is no longer a hand-wave.
+- **The demo can sell to venues.** A polished consumer app makes "we will send you customers" look more believable than a waitlist page does.
+- The round-1 strengths still hold: there is no fee unless the venue earns, and WhatsApp reminders fix a pain venues already have. That second one is promised, though, not built.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **The market is six markets.** Nightclubs, bars, comedy, adventure operators, event spaces and restaurants, in three cities at once. Each has different pain and a different booking value, and some have no "booking" to charge commission on at all (free-entry bars, walk-in restaurants). The Offers lens picks one market where the pain is huge and the money is there. This brief has not picked one.
-2. **Likelihood is zero on paper.** There is no proof the platform sends seekers. The 60% no-show claim has no source, the waitlist counts are unknown, and the announced Q2 2026 launch has passed with no status given. A venue is being asked to believe in demand that nobody has shown exists.
-3. **The pitch leads on price, and the stack is a feature list.** "3%" and "no fees" invite a cheaper rival or a 0% response. The seeker perks (member pricing, rewards, VIP packages) have to be paid for by someone, presumably the venue or the platform, and that eats a 3–8% take. Nothing here makes a venue feel stupid saying no.
+1. **The offer to the paying buyer does not exist yet.** All the polish went to the side that pays nothing. Every venue promise is still copy: zero-effort management, payouts, analytics, WhatsApp reminders, the unsourced 60% no-show claim. Nobody has shown a venue that the platform delivers a result, so the chance of getting one is still zero.
+2. **The market is wider, not narrower.** Spas, museums, theme parks, festivals, hikes and street food each have a different buyer, pain and booking value. At 3%, a R60 karaoke ticket earns R1.80 and a R90 open mic earns R2.70. Free listings earn nothing. The cheap, high-frequency nights the app leads with may not pay for the seeker who books them.
+3. **The proof is fake, and the scarcity could be too.** Real, named South African businesses appear next to hard-coded ratings, "Almost Full" badges, live-capacity bars and "3 from your community going". Nothing says any of these businesses are partners. The Offers lens says real scarcity only, never fake. Ship this to real users and trust breaks on both sides, and a named business that never agreed to be listed becomes a problem.
 
 ## The questions I would ask the founder
-- Which single venue type, in which single city, loses the most money to empty capacity? (/founder-consumer, /founder-competitors)
-- What does the platform charge commission on when a venue has no cover charge or deposit?
-- What is the average booking value, and what does 3% of it come to per booking? Does that cover the cost of acquiring a seeker? (/founder-cfo)
-- What proof can you put in front of a venue before it signs: a pilot venue, real bookings, a sourced no-show number?
-- What do venues use today, and what do they pay for it? (/founder-competitors)
-- Could you charge double and still be the obvious choice? If not, what is missing?
-- What happened to the Q2 2026 launch?
+- How many of the named businesses in the demo have agreed to be listed?
+- Which single category in which single city has ticket prices high enough that 3–8% pays for acquiring a seeker? (/founder-cfo, /founder-consumer)
+- When does a venue see something it can use: a dashboard, a payout, a scanned ticket?
+- What do venues already use to sell tickets, and what do they pay? Does any of those tools already offer weekly payouts? (/founder-competitors)
+- Who pays for "Refer a friend, earn R50" and the member pricing, and does it fit inside a R4.50 commission?
+- What is the current launch status now that Q2 2026 has passed?
 
 ## If FUND IF: the conditions
-1. **Narrow to one venue type in one city** (for example comedy or activity operators in Johannesburg, if the research supports it) and rewrite the offer around a single outcome, such as "N extra off-peak covers a month."
-2. **Add a real guarantee** that ties the venue's money to that outcome, for example no commission until the platform delivers a set number of new bookings. The CFO has to confirm it is affordable (/founder-cfo).
-3. **Show proof before scaling:** at least a handful of pilot venues with tracked bookings and no-show rates, replacing the unsourced claims.
-4. **Define the unit of revenue** for venues with no ticket or deposit, and confirm the seeker perks fit inside the commission (/founder-cfo).
+1. **Narrow to one category in one city**, and pick it by the commission each ticket earns, not by how good the listings look (/founder-cfo).
+2. **Build the smallest product for the venue before more seeker features:** create a listing, scan at the door, receive a payout.
+3. **Get real proof:** a handful of signed pilot venues with tracked sales and no-show rates. Remove unconsented real businesses and any live scarcity or social proof that is not real.
+4. **Add a venue guarantee**, for example no commission until N new bookings are delivered, priced by /founder-cfo.

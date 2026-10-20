@@ -1,25 +1,32 @@
 # Product lens
 Score: 4 | Vote: FUND IF
 
+## What changed since round 1
+The score stayed at 4. The demo moved things in both directions and they roughly cancel out.
+- **Up:** taste and craft can now be seen. The seeker app is polished, mobile-first and coherent. The tagline "Decide. Book. Show up." is a one-sentence pitch, which round 1 asked for. The demo also partly answers my round-1 risk #2. A "booking" is now a dated, priced ticket (R60 to R6,800), so the core moment has something real to sell.
+- **Down:** focus got worse. The waitlist page listed 6 venue types in 3 cities. The demo shows 9 categories in 10 cities, from karaoke to R6,800 wellness retreats. And it is only half a product: there is no venue side at all. Nothing exists for listings, availability, door check or payouts, which are the seams I named as the danger. The polish sits where the founder is comfortable, not where the business breaks.
+
 ## What is strong
-- The core moment is easy to picture: find a spot, book in ~30 seconds, get a WhatsApp confirmation, show a ticket at the door. A real experience comes first, not a technology.
-- WhatsApp-native confirmations and reminders fit how the target user already communicates. That touchpoint could be done very well.
-- "Pay only when you earn" is a simple promise to venues. Starter has no upfront or monthly fee, so a venue has little to lose by trying it.
+- The seeker flow is well made: discover, spot page, 3-step checkout, QR ticket to email and WhatsApp. Someone who cares about craft built the screens.
+- The ticket-shaped booking gives a percentage commission something real to apply to, and gives the seeker something to show at the door.
+- The pitch now fits in one sentence. The product just doesn't match it yet.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **No one thing.** Six venue types, three cities at launch, social feeds, rewards, member pricing, split bills, a last-minute finder, personalised recommendations, a marketing engine, analytics, multi-location dashboards, white-label and an API. Each of these is a product in itself. Spread this thin, every part will be average, and in a marketplace average means nobody comes back. The Q2 2026 date has passed with no stated launch. That fits a scope too big to ship.
-2. **The "booking" is undefined for half the venues.** A free-entry bar or a restaurant does not sell a ticket. If nothing of value changes hands at the door, the seeker's experience is hollow and a percentage commission has nothing to apply to. The core moment only works for venues that already sell entry or experiences.
-3. **Seams the business does not own.** Availability lives in the venue's own systems and staff. The door check is done by a bouncer, not the app. Payouts depend on a payments partner. One double-booking, or one guest turned away while holding a valid ticket, breaks the "instant, no double-bookings" promise in public. Venues are also asked to vet "quality and safety". That is a promise made on behalf of other people.
+1. **The venue side is missing, and it is where the experience breaks.** "Live capacity 178/200" is hard-coded. In a real product that number has to come from a venue that keeps it up to date. If availability is not managed, there will be double-bookings and guests turned away at the door. A marketplace is judged at the handoff to the venue, and that handoff has not been designed.
+2. **Scope is moving the wrong way.** The Q2 2026 launch date has passed. The response so far has been more categories and more cities, not fewer. Festivals, fine dining, skydiving and museum lates have different buyers, ticket sizes and door processes. Doing all of them averagely loses to a specialist in each.
+3. **The demo tells a story it can't back up.** It shows real named businesses with contact details, but nothing says whether they are partners. Ratings, "3 from your community going" and "Almost Full" badges are invented. If a seeker or venue takes any of this as real, trust is broken before the first booking. This is the hidden corner the lens warns about: corners cut where nobody looks get cut where they do.
 
 ## The questions I would ask the founder
-- Say it in one sentence, for one customer, in one city.
-- Walk me through the first five minutes for a seeker on a Friday at 10pm, and for a venue manager setting up on a Monday.
-- Which venue type actually sells something bookable today, and how much is one booking worth? (Unknown; /founder-cfo for the economics, /founder-consumer for whether seekers want it.)
-- Who else already does ticketing or reservations for that venue type in SA, and why would anyone switch? (Unknown; /founder-competitors.)
-- What happens at the door when the app says yes and the venue says no?
-- What did you cut to ship, and why has the Q2 date slipped?
+- Which one category in which one city will be live first? What did you cut to get there?
+- Walk me through a venue manager's first five minutes: creating an event, setting capacity, scanning a ticket at the door, seeing a payout. Show me the screens.
+- Are any of the named businesses in the demo partners? If not, when will they be removed or labelled?
+- Where does live availability come from, and what happens when the app says yes and the door says no?
+- Which payment provider and which WhatsApp integration will you use, and who owns the failures at each?
+- What is one booking worth after commission at your target category's price? (Unknown; /founder-cfo.)
+- Do seekers want this category from you rather than from where they buy tickets now? (Unknown; /founder-consumer for demand, /founder-competitors for who already sells these tickets.)
 
 ## If FUND IF: the conditions
-1. Cut to one venue type that already charges for entry or a set experience (for example comedy or activity operators), in one city. Park social, rewards, split bills, member pricing, Professional and Enterprise.
-2. Show the full experience working end to end with real venues: discover, book, WhatsApp confirmation, door check, payout. Report the failure rate at each handoff.
-3. Define a "booking" and its value in a way the CFO model can check (/founder-cfo). Show that seekers want this specific product through /founder-consumer before adding a second category.
+1. Cut to one ticketed category in one city, for example comedy or activity operators in Joburg. Hide everything else, including social features, split bills and rewards.
+2. Build the minimum venue side for that category: create the event, set capacity, scan at the door, pay out. Run real bookings end to end with signed venues, and report the failure rate at each handoff.
+3. Remove real business names, or label them as partners, and remove fabricated social proof before anyone outside the team sees the demo.
+4. Model the economics of a booking in that category (/founder-cfo) and show demand for it (/founder-consumer) before adding a second category.

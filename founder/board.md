@@ -1,34 +1,49 @@
 # Board summary: Trove
 
-**Vote: 2 fund if, 1 pass. Average score 3.7 / 10** (Offers 4 FUND IF, Monopoly 3 PASS, Product 4 FUND IF).
+**Round 2 (after the working demo): 2 fund if, 1 pass. Average score 3.3 / 10.**
+Offers 4, FUND IF (no change) · Monopoly 2, PASS (down from 3) · Product 4, FUND IF (no change).
+Round 1 was based only on the waitlist page and averaged 3.7.
 
-The board likes the structure: a two-sided marketplace, WhatsApp-native, with a no-risk commission for venues. It does not yet see a business it can fund, because the plan tries to be everything, everywhere, from day one.
+Inputs: the waitlist page and the demo at https://trove-1un.pages.dev. www.welovetrove.co.za could not be reached and has not been reviewed.
+
+## What the demo changed
+
+**Better:**
+- **A "booking" is now defined.** Every listing is a dated, priced ticket (R60 to R6,800), so the commission can be calculated. This answers the main round-1 risk for paid events. Free listings still earn nothing.
+- **Craft is visible.** The seeker flow is polished and mobile-first: discover → spot page → 3-step checkout → QR ticket by email and WhatsApp. "Decide. Book. Show up." is the one-sentence pitch the board asked for.
+- **It can be used to sell.** A real app makes "we'll send you customers" more believable to a venue than a waitlist page does.
+
+**Worse:**
+- **The scope grew instead of narrowing.** The waitlist page had 6 venue types in 3 cities. The demo has 9 categories in 10 cities, about 90 city-and-category cells (Monopoly).
+- **The paying side gets nothing.** There is no venue dashboard, listing creation, capacity control, door scanning or payouts. The polish all sits on the free side of the marketplace, which also does not create the network effect.
+- **Real businesses next to invented social proof.** Real SA brands (Marble, The Saxon, Zeitz MOCAA, Ultra SA, Rocking the Daisies, SANParks and others) appear with no stated partnership, some with real-looking contact details. They sit beside hard-coded ratings, "Almost Full" badges, live-capacity bars and "3 from your community going". All three members flagged this as something to fix before anyone outside the team sees it.
 
 ## Risks raised by more than one member (most dangerous first)
 
-1. **Too wide to win anywhere** (all three). It launches with six venue types in three cities, plus a long feature list: social, rewards, split bills, member pricing, a marketing engine, analytics, white-label and an API. Offers: "the market is six markets". Monopoly: thin liquidity across about 18 city-and-category cells, dominant in none. Product: "no one thing", and every part ends up average.
-2. **"Booking" has no definition for half the venues** (all three). Free-entry bars and walk-in restaurants sell nothing at the door. A 3–8% commission has nothing to apply to, and the seeker's booking has no value. Average booking value is unknown.
-3. **No proof of demand, and the launch slipped** (all three). The waitlist counts are unknown, the 60% no-show claim has no source, and the Q2 2026 launch date has passed with no status given. A venue is asked to believe in seekers nobody has shown exist.
-4. **Weak pricing power and no moat** (Offers, Monopoly). Leading with "3%" and "no fees" invites a cheaper rival. Seeker perks have to be paid for out of a thin take. Venues can list everywhere and pay nothing to leave. No secret or proprietary edge is named.
-5. **No distribution plan** (Monopoly, implied by Offers). Nothing says how the first 100 venues and 1,000 seekers arrive, or what each one costs.
+1. **Too wide to win anywhere** (all three, now worse).
+2. **No venue-side product**, although the venue is the customer who pays (all three). Product's view: "The polish sits where the founder is comfortable, not where the business breaks."
+3. **No proof of demand or supply** (all three). No real venue, transaction, payment integration, WhatsApp integration or traction numbers. The Q2 2026 launch date has passed with no status given.
+4. **Unconsented real brands and fabricated scarcity or social proof** (all three, new). This risks reputation and could cause legal problems, and it undercuts "Verified & Trusted".
+5. **No moat** (Offers, Monopoly). Seeker features and a good front end can be copied, and venues can list everywhere.
 
 ### Where the board disagrees
-- **Monopoly votes PASS. Offers and Product vote FUND IF.** Offers and Product think a narrow wedge with proof could work. Monopoly says that even a narrow wedge needs a defensible advantage on top (exclusive inventory, a data edge, or a workflow venues can't easily replace). Without one, it is "an undifferentiated booking app".
-- **What the risk is.** Offers sees it as a *likelihood* problem: show it works. Product sees an *execution* problem: the seams Trove doesn't own (venue availability, the bouncer at the door, the payments partner) will break the promise in public. Monopoly sees a *durability* problem: a copycat in month six.
+- **Monopoly PASS vs. Offers and Product FUND IF.** Monopoly reads the demo as evidence that effort is going into the wrong half of the marketplace, and cut its score. Offers and Product think that, with focus, the same craft pointed at the venue side could work.
+- **What the demo is for.** Offers sees it as a sales tool to sign venues. Product sees it as half a product that hides the seams most likely to break. Monopoly sees a storefront with no stock.
 
 ## Conditions (checklist for the rest of the pack)
 
-- [ ] **Pick one venue type in one city.** The type must already charge for entry or a set experience (the board suggested comedy or activity operators, for example in Johannesburg, if research supports it). Park social, rewards, split bills, member pricing, Professional and Enterprise. *(all three; /founder-competitors and /founder-consumer pick the cell)*
-- [ ] **Define a "booking" and its value.** Set the average booking value, what 3% / 8% earns per booking, and whether seeker perks fit inside the take. *(/founder-cfo)*
-- [ ] **Find out what venues use today and what they pay.** Name the incumbents in ticketing and reservations for the chosen cell. *(/founder-competitors)*
-- [ ] **Show that seekers want this specific product**, and that Instagram plus a WhatsApp message to the venue isn't good enough. *(/founder-consumer)*
-- [ ] **Run real pilots end to end** with a handful of venues: discover → book → WhatsApp confirmation → door check → payout. Track bookings, no-show rates and the failure rate at each handoff. These numbers replace the unsourced 60% claim. *(/founder-launch)*
-- [ ] **Offer a guarantee tied to the venue's outcome**, for example no commission until Trove delivers N new off-peak bookings, and confirm it is affordable. *(/founder-offer, /founder-cfo)*
-- [ ] **Sign up a dominant share of venues in the chosen cell**, with commitments signed, not just waitlist rows. *(Monopoly's condition for reopening its vote)*
-- [ ] **Name the defensible advantage**: exclusive inventory, a data advantage, or a venue workflow that is hard to replace. *(Monopoly)*
-- [ ] **Write a distribution plan for the first 100 venues and 1,000 seekers**, with the cost of each. *(/founder-marketing, /founder-cfo)*
-- [ ] **Explain the missed Q2 2026 launch**, give the real current status, and show the actual waitlist numbers on both sides.
+- [ ] **Pick one ticketed category in one city.** Choose it by the commission each ticket earns, not by how good the listings look. Board examples: comedy, activity operators or underground nightlife in a Johannesburg area. Hide every other category and city, plus social, split bills and rewards. *(/founder-competitors, /founder-consumer, /founder-cfo)*
+- [ ] **Build the minimum venue side before any more seeker features:** create an event, set capacity, scan at the door, pay out. *(all three)*
+- [ ] **Remove or label real businesses**, and remove fabricated ratings, capacity, scarcity and "friends going" before any external demo. *(all three; do this first)*
+- [ ] **Model the economics of one booking** in the chosen category: ticket price × 3% / 8%, payment costs, whether the free service fee and R50 referral reward fit. *(/founder-cfo)*
+- [ ] **Show seeker demand for that specific category**, and that it beats Instagram plus a WhatsApp message to the venue. *(/founder-consumer)*
+- [ ] **Find out what those venues use today for ticketing and reservations, and what they pay.** *(/founder-competitors)*
+- [ ] **Run real pilots end to end** with signed venues. Track sales, no-show rates and the failure rate at each handoff. These replace the unsourced 60% no-show claim. *(/founder-launch)*
+- [ ] **Offer a venue guarantee**, for example no commission until N new bookings, priced so it is affordable. *(/founder-offer, /founder-cfo)*
+- [ ] **Sign a dominant share of venues in that one area**, and name a defence against copycats: exclusive inventory, a venue workflow that is costly to leave, or demand data. *(Monopoly's condition for reopening its vote)*
+- [ ] **Write a distribution plan** for the first 100 venues and 1,000 seekers, with the cost of each. *(/founder-marketing)*
+- [ ] **Give the real launch status and waitlist numbers on both sides.**
 
 ## The strongest version the board can see
 
-This differs from the pitch. The strongest Trove is **not** "South Africa's home for entertainment". It is the booking and door system for a single category of venue that already sells tickets or set experiences. Comedy clubs or activity operators in Johannesburg are the board's example, pending research. It sells mainly to the **venue**, and its value is filled off-peak capacity and fewer no-shows through WhatsApp, proven with pilot data. Its price is tied to bookings it actually delivers. The seeker app starts as the simplest possible "find tonight's show, book in 30 seconds, show the ticket" flow, with no social feed, rewards or split bills. If Trove can be the obvious place to book that one category in that one city, and the venue workflow becomes hard to leave, it has a network effect to expand from. If it can't, the board does not see a business here.
+This is narrower than both the waitlist page and the demo. Keep the seeker flow you've built. It's good, and it's the right shape: a dated, priced ticket, a 30-second checkout and a QR code on WhatsApp. Point it at **one ticketed category in one city**, and spend the next build on the **venue side** for that category: create the event, set capacity, scan at the door, get paid weekly. Sign a handful of real venues, run real sales through it and publish the numbers. Once Trove is the obvious place to book that one thing in that one area, and those venues run their door through it, it has a network effect to expand from. The other 8 categories and 9 cities in the demo come afterwards.

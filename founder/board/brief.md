@@ -40,3 +40,26 @@ Source: the founder's public waitlist page (the only material available). Nothin
 - Customer acquisition cost on either side.
 - Named competitors and market size (to be researched by /founder-competitors; do not assume).
 - Current launch status: the page announced Q2 2026; today is 2026-10-20.
+
+## Update 2026-10-20: the working demo (https://trove-1un.pages.dev)
+
+The founder shared a live clickable demo. What it actually contains (observed directly; nothing below is the chair's opinion). The company website, www.welovetrove.co.za, could not be reached and has not been reviewed.
+
+**What it is today:** a polished, mobile-first, seeker-only consumer app (dark theme, PWA). Tagline: "Decide. Book. Show up." Positioning line: "Nightlife, food, music, adventure, wellness, arts, family & community — sorted in 30 seconds." Social/OG copy: "Discover and book South Africa's best nightlife, comedy and adventures in seconds."
+
+**Scope shown:** 40 listings ("spots") across 9 categories (Nightlife, Food & Drink, Music, Adventure, Wellness, Arts & Culture, Family & Social, Community) and 10 city filters (Joburg, Pretoria, Sandton, Soweto, Cape Town, Stellenbosch, Durban, Gqeberha, Bloemfontein, Polokwane). This is wider than the waitlist page (6 venue types, 3 launch cities).
+
+**Every listing is a dated, priced item**, i.e. the demo treats a "booking" as a ticket for a specific date/time. Examples and prices shown: warehouse techno night R150, rooftop sunset session R220, comedy open mic R90, karaoke R60, jazz room R200, speakeasy R280, brunch R240, bunny chow R95, fine-dining tasting menu R1,850, wine-farm 8-course R1,450, live music R350, jazz festival R950, music festivals R1,450-R1,850, tandem paraglide R1,450, bungee R1,750, skydive R2,950, 2-day hike R2,200, spa day R3,200, wellness retreat R6,800, museum late R180, Comic Con R320, theme park R290, aquarium R320. Some listings are "Free" (markets), which earn no commission.
+
+**Listings mix invented venues with real, named South African businesses and events**, e.g. Marble (with its chef named), The Saxon spa, Zeitz MOCAA, Bassline, Cape Town Jazz Festival / espAfrika, Rocking the Daisies, Ultra South Africa, Comic Con Africa / Reed Exhibitions, Gold Reef City, uShaka Marine World, Constitution Hill, Bloukrans Bungy / Face Adrenalin, SANParks; some host pages include real-looking contact emails. Nothing in the demo says whether any of these businesses are partners. Ratings, review counts, follower counts, "live capacity" bars (e.g. "178/200 · 89%"), "Almost Full / Filling Up" badges, and "3 from your community going" are all hard-coded demo data.
+
+**Screens and flows present:**
+- Discover feed with tabs For You / With Friends / Trending, story-style "LIVE" bubbles, Editor's Picks, category and city filters.
+- Search with sort: Trending, Closest, Cheapest, Top Rated.
+- Spot page: rating, distance, date/time, live capacity bar, about, tags, "Your crew is going" social block with Invite, hours, host link, address with Directions, "Split the bill — share the cost with your crew", quantity picker, Book now.
+- Host (venue) profile page: bio, followers, events, "Join community", amenities, hours, upcoming events, phone/email/Instagram.
+- Checkout: 3 steps (Details, Payment, Confirm). Collects name, email, WhatsApp number; "We'll send your QR ticket to email and WhatsApp." Shows "Service fee: Free". Payment methods Card and Instant EFT. Payment is simulated ("Test mode · Use card ending 0000 to simulate a failure"); no booking is stored on a server.
+- My Tickets, Saved (wishlist), Profile (WhatsApp updates toggle, push notifications, "Refer a friend — Earn R50 when they book", reviews, friends).
+- A "Host +" bubble exists and the backend has user profiles with an "is host" flag, but **there is no venue-side product in the demo**: no venue dashboard, listing creation, availability management, door scanning, analytics, or payouts.
+
+**What the demo does not show:** any real venue partner, any real transaction, any payment provider integration, any commission or venue pricing, any WhatsApp integration (only copy promising it), or traction numbers.
